@@ -7,6 +7,6 @@
 ---
 ## Second Slide
 
->Mama mag Kölsch
+>Mama mag Wein
 
 Note: speaker notes FTW!
