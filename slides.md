@@ -2,6 +2,7 @@
 
 * Background
 * Important Terms
+* Key take-aways
 * Sources
 
 ---
