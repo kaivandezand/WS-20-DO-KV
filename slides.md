@@ -1,4 +1,5 @@
 # Reinventing Organizations
+![reinventing_organizations.jpg](reinventing_organizations.jpg)
 * Background
 * Important Terms
 * Key take-aways
