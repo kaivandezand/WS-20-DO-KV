@@ -1,5 +1,4 @@
-# Präsentation 1
-
+# Reinventing Organizations
 * Background
 * Important Terms
 * Key take-aways
