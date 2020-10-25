@@ -7,6 +7,6 @@
 ---
 ## Second Slide
 
->Best Quote Ever
+>Best Quote Ever 2
 
 Note: speaker notes FTW!
