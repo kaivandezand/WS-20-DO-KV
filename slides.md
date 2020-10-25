@@ -1,5 +1,5 @@
 # Reinventing Organizations
-![reinventing_organizations.jpg](reinventing_organizations.jpg)
+![reinveting_organizations.jpg](reinveting_organizations.jpg)
 * Background
 * Important Terms
 * Key take-aways
