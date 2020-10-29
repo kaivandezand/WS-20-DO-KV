@@ -1,13 +1,25 @@
 # Reinventing Organizations
-![reinveting_organizations.jpg](reinveting_organizations.jpg)
+
+![Stapel_alle.jpg](Stapel_alle.jpg)
+> A Visiual Studio Code presentation by Carolin Hitzegrad & Kai van de Zand
+
+# Today's Agenda
 * Background
-* Important Terms
+* Teal Organizations
 * Key take-aways
-* Sources
+* References
+
 
 ---
-## Second Slide
+# Background
 
->Best Quote Ever 2
+>"_The way we run organizations today is broken_"
 
-Note: speaker notes FTW!
+---
+
+# Background
+
+
+# Teal Organizations
+
+
