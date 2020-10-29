@@ -22,7 +22,19 @@
 * Amber
 * Orange
 * Green
+![steps.jpg](steps.jpg)
 
+---
+
+# From Red to Amber
+
+![bt_amber.jpg](bt_amber.jpg)
+
+---
+
+# From Amber to Orange
+
+![bt_orange.jpg](bt_orange.jpg)
 # Teal Organizations
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
