@@ -33,6 +33,8 @@
 ---
 
 # Breakthrough 1 - Self-Management
+![complexity.jpg](complexity.jpg)
+
 > Bye bye Hierarchy - Hello collective intelligence
 
 ## Organizational Structure 
