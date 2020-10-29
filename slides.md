@@ -32,3 +32,13 @@ All of us have deep yearning for wholeness, reuniting with all of who we are, wi
 ---
 
 # Breakthrough 1 - Self-Management
+
+## Organizational Structure 
+![self_management.jpg](self_management.jpg)
+> Bye bye Hierarchy - Hello collective intelligence
+
+---
+
+# Breakthrough 1 - Self-Management
+
+## Decision-Making
