@@ -18,27 +18,62 @@
 ---
 
 # Background
+* Red
+* Amber
+* Orange
+* Green
 
-
-# Teal Organizations #1
+# Teal Organizations
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
 
 ---
 
-# Teal Organizations #2
-All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
-
+>All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
 ---
 
 # Breakthrough 1 - Self-Management
+> Bye bye Hierarchy - Hello collective intelligence
 
 ## Organizational Structure 
 ![self_management.jpg](self_management.jpg)
-> Bye bye Hierarchy - Hello collective intelligence
+
+
+## Decision-Making
 
 ---
 
-# Breakthrough 1 - Self-Management
+## Perfromance Management
 
-## Decision-Making
+---
+
+## Compensation and incentitives
+
+
+
+---
+
+# Breakthrough 2 - Striving for Wholeness
+
+
+# Breakthrough 3
+
+
+
+---
+
+## Evolutionary purpose
+
+---
+
+## Budgets
+
+---
+
+## Change Management
+
+---
+
+## Final remarks
+
+
