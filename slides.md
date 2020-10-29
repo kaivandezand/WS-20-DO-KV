@@ -56,13 +56,7 @@
 # Breakthrough 2 - Striving for Wholeness
 
 
-# Breakthrough 3
-
-
-
----
-
-## Evolutionary purpose
+# Breakthrough 3 - Evolutionary purpose
 
 ---
 
