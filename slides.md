@@ -15,18 +15,19 @@
 
 
 ---
-# Background
+# How are organizations run today? /Which worldview do they have?
 
 >"_The way we run organizations today is broken_"
 
 ---
 
-# Background
+# How are organizations run today? /Which worldview do they have?
 * Red
 * Amber
 * Orange
 * Green
 ![steps.jpg](steps.jpg)
+![steps_c.jpg](steps_c.jpg)
 
 ---
 
@@ -46,6 +47,12 @@
 ---
 
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
+---
+# What is a teal organization?
+
+![pyramide_teal.jpg](pyramide_teal.jpg)
+
+
 ---
 
 # Breakthrough 1 - Self-Management
