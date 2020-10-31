@@ -3,11 +3,15 @@
 ![Stapel_alle.jpg](Stapel_alle.jpg)
 > A Visiual Studio Code presentation by Carolin Hitzegrad & Kai van de Zand
 
-# Today's Agenda
-* Background
-* Teal Organizations
-* Key take-aways
-* References
+# Today we want to give you answers to the following questions:
+1. How are organizations run today? /Which worldview do they have?
+2. What is a teal organization?
+3. Why is self-management so important?
+4. Why should organizations strive for wholeness?
+5. What is the evolutionary purpose of an organization?
+6. How do we get teal structures and purposes into our organization?
+7. What are today´s Key take-aways?
+8. What are our references
 
 
 ---
