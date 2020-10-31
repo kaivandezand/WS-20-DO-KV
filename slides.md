@@ -52,6 +52,9 @@
 
 ![pyramide_teal.jpg](pyramide_teal.jpg)
 
+---
+# What is a teal organization?
+
 
 ---
 
