@@ -33,24 +33,24 @@
 
 ---
 
-### Red (impulsive worldview)
+### <span style="color:red"> **Red (impulsive worldview)**
   + Order from the top is everything
-  + "Mafia Lifestyle"
+  + <span style="color:red">**"Mafia Lifestyle"**</span>
   + Brutal force if needed
 ---
 
-### From Red to Amber
+### <span style="color:rgb(153,76,0)"> **From Red to Amber**
 
 ![bt_amber.jpg](bt_amber.jpg)
 
 ---
 
-### From Amber to Orange
+### <span style="color:orange">**From Amber to Orange**
 
 ![bt_orange.jpg](/bt_orange.jpg#left)
 
 ---
-## Teal Organizations
+## <span style="color:blue">**Teal Organizations**
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
 
