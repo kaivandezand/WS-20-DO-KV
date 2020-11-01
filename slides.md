@@ -4,17 +4,17 @@
 >by Carolin Hitzegrad & Kai van de Zand
 ---
 
-### Today we want to give you answers to the following questions:
-<font size="1">1. How are organizations run today? /Which worldview do they have?
-1. <font size="1">2. What is a teal organization?
-2. <font size="1">Why is self-management so important?
-3. <font size="1">Why should organizations strive for wholeness?
-4. <font size="1">What is the evolutionary purpose of an organization?
-5. <font size="1">How do we get teal structures and purposes into our organization?
-6. <font size="1">What are today´s Key take-aways?
+#### Today we want to give you answers to the following questions:
+<p style="text-align: left;"> <font size="2">1. How are organizations run today? /Which worldview do they have?</font>
+<p style="text-align: left;"><font size="2">2. What is a teal organization?</font>  
+<p style="text-align: left;"><font size="2">3. Why is self-management so important?</font>
+<p style="text-align: left;"><font size="2">4. Why should organizations strive for wholeness?</font>
+<p style="text-align: left;"><font size="2">5. What is the evolutionary purpose of an organization?</font>
+<p style="text-align: left;"><font size="2">6. How do we get teal structures and purposes into our organization?</font>
+<p style="text-align: left;"><font size="2">7. What are today´s Key take-aways?</font>
 
 ---
-
+# 
 <font size="3">1. What are our references
 
 <font size="3">2. What are our references
@@ -35,12 +35,9 @@
 ---
 
 ### How are organizations run today? /Which worldview do they have?
-* Red
-* Amber
-* Orange
-* Green
 
-![steps_c.jpg](steps_c.jpg)
+
+![steps_c.jpg](steps_c.jpg)<!-- .element height="50%" width="50%" -->
 
 ---
 
