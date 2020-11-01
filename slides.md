@@ -14,6 +14,7 @@
 <p style="text-align: left;"><font size="2">7. What are today´s Key take-aways?</font>
 
 ---
+<<<<<<< HEAD
 # 
 <font size="3">1. What are our references
 
@@ -26,6 +27,17 @@
 <font size="3">5. Test
 
 
+=======
+#### Today we want to give you answers to the following questions:
+<font size="2">1. How are organizations run today? /Which worldview do they have?\
+<font size="2">2. What is a teal organization?\
+<font size="2">3. Why is self-management so important?\
+<font size="2">4. Why should organizations strive for wholeness?\
+<font size="2">5. What is the evolutionary purpose of an organization?\
+<font size="2">6. How do we get teal structures and purposes into our organization?\
+<font size="2">7. What are today´s Key take-aways?\
+<font size="2">8. What are our References?</font>\
+>>>>>>> d3f005bdcdcce03173eafc75c43f164799363176
 ---
 
 ### How are organizations run today? /Which worldview do they have?
