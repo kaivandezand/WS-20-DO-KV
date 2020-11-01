@@ -12,7 +12,11 @@
 5. What is the evolutionary purpose of an organization?
 6. How do we get teal structures and purposes into our organization?
 7. What are today´s Key take-aways?
-8. What are our references
+
+---
+
+8. What are our references <font size="5">What are our references</font>
+
 ---
 
 ### How are organizations run today? /Which worldview do they have?
