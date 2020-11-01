@@ -5,13 +5,13 @@
 ---
 
 ### Today we want to give you answers to the following questions:
-1. How are organizations run today? /Which worldview do they have?
-2. What is a teal organization?
-3. Why is self-management so important?
-4. Why should organizations strive for wholeness?
-5. What is the evolutionary purpose of an organization?
-6. How do we get teal structures and purposes into our organization?
-7. What are today´s Key take-aways?
+<font size="1">1. How are organizations run today? /Which worldview do they have?
+1. <font size="1">2. What is a teal organization?
+2. <font size="1">Why is self-management so important?
+3. <font size="1">Why should organizations strive for wholeness?
+4. <font size="1">What is the evolutionary purpose of an organization?
+5. <font size="1">How do we get teal structures and purposes into our organization?
+6. <font size="1">What are today´s Key take-aways?
 
 ---
 
