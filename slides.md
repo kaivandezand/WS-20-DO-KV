@@ -1,7 +1,3 @@
-<!-- background: #c8e4f6 -->
-<!-- color: #15025e -->
-<!-- font: brandon -->
-
 ## Reinventing Organizations
 
 ![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
