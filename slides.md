@@ -1,7 +1,14 @@
+<!-- background: #c8e4f6 -->
+<!-- color: #15025e -->
+<!-- font: brandon -->
+
 ## Reinventing Organizations
 
 ![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
 >by Carolin Hitzegrad & Kai van de Zand
+
+<!-- .slide: data-transition="linear" -->
+
 ---
 
 ### Today we want to give you answers to the following questions:
@@ -9,6 +16,7 @@
 <p style="text-align: left;"><font size="6">2. What is a teal organization? 
 <p style="text-align: left;"><font size="6">3. Why is self-management so important?
 <p style="text-align: left;"><font size="6">4. Why should organizations strive for wholeness?</font>
+<!-- .slide: data-transition="linear" -->
 
 ---
 
@@ -18,11 +26,15 @@
 <p style="text-align: left;"><font size="6">7. What are today´s Key take-aways?
 <p style="text-align: left;"><font size="6">8. What are our References?
 
+<!-- .slide: data-transition="linear" -->
+
 ---
 
 ### How are organizations run today? /Which worldview do they have?
 
 >"_The way we run organizations today is broken_"
+
+<!-- .slide: data-transition="linear" -->
 
 ---
 
@@ -31,17 +43,24 @@
 
 ![steps_c.jpg](steps_c.jpg)<!-- .element height="50%" width="50%" -->
 
+<!-- .slide: data-transition="linear" -->
+
 ---
 
 ### <span style="color:red"> **Red (impulsive worldview)**
   + Order from the top is everything
   + <span style="color:red">**"Mafia Lifestyle"**</span>
   + Brutal force if needed
+
+<!-- .slide: data-transition="linear" -->
+
 ---
 
 ### <span style="color:rgb(153,76,0)"> **From Red to Amber**
 
 ![bt_amber.jpg](bt_amber.jpg)
+
+<!-- .slide: data-transition="linear" -->
 
 ---
 
@@ -49,10 +68,14 @@
 
 ![bt_orange.jpg](/bt_orange.jpg#left)
 
+<!-- .slide: data-transition="linear" -->
+
 ---
 ## <span style="color:blue">**Teal Organizations**
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
+
+<!-- .slide: data-transition="linear" -->
 
 ---
 
