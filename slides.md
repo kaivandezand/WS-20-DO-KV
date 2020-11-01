@@ -1,7 +1,7 @@
-# Reinventing Organizations
-![Stapel_alle.jpg](Stapel_alle.jpg)
-> A Visiual Studio Code presentation by Carolin Hitzegrad & Kai van de Zand
+## Reinventing Organizations
 
+![pyramide_teal.jpg](pyramide_teal.jpg)
+>by Carolin Hitzegrad & Kai van de Zand
 ---
 
 ## Today we want to give you answers to the following questions:
