@@ -26,7 +26,7 @@
 * Amber
 * Orange
 * Green
-![steps.jpg](steps.jpg)
+
 ![steps_c.jpg](steps_c.jpg)
 
 ---
