@@ -9,6 +9,7 @@
 <p style="text-align: left;"><font size="6">2. What is a teal organization? 
 <p style="text-align: left;"><font size="6">3. Why is self-management so important?
 <p style="text-align: left;"><font size="6">4. Why should organizations strive for wholeness?</font>
+
 ---
 
 ### Today we want to give you answers to the following questions:
@@ -16,6 +17,7 @@
 <p style="text-align: left;"><font size="6">6. How do we get teal structures and purposes into our organization?</font>
 <p style="text-align: left;"><font size="6">7. What are today´s Key take-aways?
 <p style="text-align: left;"><font size="6">8. What are our References?
+
 ---
 
 ### How are organizations run today? /Which worldview do they have?
@@ -31,6 +33,11 @@
 
 ---
 
+### Red (impulsive worldview)
+  + Order from the top is everything
+  + "Mafia Lifestyle"
+  + Brutal force if needed
+
 ### From Red to Amber
 
 ![bt_amber.jpg](bt_amber.jpg)
@@ -39,8 +46,9 @@
 
 ### From Amber to Orange
 
-![bt_orange.jpg](bt_orange.jpg)
+![bt_orange.jpg](/bt_orange.jpg#left)
 
+---
 ## Teal Organizations
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
