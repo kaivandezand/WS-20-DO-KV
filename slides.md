@@ -1,5 +1,5 @@
 # Reinventing Organizations
-![Stapel_neu_alle.jpg](Stapel_neu_alle.jpg)
+![Stapel_alle.jpg](Stapel_alle.jpg)
 > A Visiual Studio Code presentation by Carolin Hitzegrad & Kai van de Zand
 
 ---
