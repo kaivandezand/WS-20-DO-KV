@@ -51,15 +51,16 @@
 
 ### <span style="color:red"> **Red (impulsive worldview)**
   > Order from the top is everything
-  >>+ <span style="color:red">**"Mafia Lifestyle"**</span>
+  >>+ No internalized rules
   >>+ Brutal force if needed
+  >>+ Power is the way on looking at the world
 
 <!-- .slide: data-transition="linear" -->
 
 ---
 ### <span style="color:red"> **Red (impulsive worldview)**
 
-Breakthrough 1             |  Breakthrough 2
+Breakthrough (BT) 1             |  Breakthrough (BT) 2
 :-------------------------:|:-------------------------:
 ![organization_red_1.jpg](organization_red_1.jpg)  |  ![organization_red_2.jpg](organization_red_2.jpg)
 
@@ -68,9 +69,10 @@ Breakthrough 1             |  Breakthrough 2
 ---
 
 ### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
-> ..
-> >...
-> > ...
+> Everything is about stability and certainty
+>>+ Internalized rules and exercise self-discipline
+>>+ Guilt and shame as the glue of society
+>>+ Clear ranks and first hierarchical pyramids
 
 
 <!-- .slide: data-transition="linear" -->
@@ -78,7 +80,7 @@ Breakthrough 1             |  Breakthrough 2
 
 ### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
 
-Breakthrough (BT)1             |  Breakthrough (BT) 2
+BT 1                       |  BT 2
 :-------------------------:|:-------------------------:
 ![organization_amber_1.jpg](organization_amber_1.jpg)  |  ![organization_amber_2.jpg](organization_amber_2.jpg)
 
@@ -86,9 +88,10 @@ Breakthrough (BT)1             |  Breakthrough (BT) 2
 ---
 
 ### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
-> ..
-> >...
-> > ...
+> Defined by materialistic obsession & social inequality
+>>+ The world is no longer seen as fixed by rules
+>>+  Be anyone you want to be
+>>+  Achieve anything you set your mind to
 
 <!-- .slide: data-transition="linear" -->
 ---
@@ -104,9 +107,10 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
-> ..
-> >...
-> > ...
+> People are aware of orange’s materialistic obsession
+>>+ Happiness is important to the organization’s overall success
+>>+ Organization as families
+>>+ Aspires to be egalitarian and consensus seeking
 
 <!-- .slide: data-transition="linear" -->
 ---
@@ -119,8 +123,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 
-
-### <span style="color:rgb(2,104,190)">**Teal Organizations**
+### <span style="color:rgb(2,104,190)">**What now?**
 ![organization_all.jpg](organization_all.jpg)<!-- .element height="130%" width="130%" -->
 
 <!-- .slide: data-transition="linear" -->
