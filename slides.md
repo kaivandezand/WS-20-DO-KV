@@ -43,7 +43,7 @@
 ### How are organizations run today? /Which worldview do they have?
 
 
-![steps_c.jpg](steps_c.jpg)<!-- .element height="50%" width="50%" -->
+![steps.jpg](steps.jpg)<!-- .element height="50%" width="50%" -->
 
 <!-- .slide: data-transition="linear" -->
 
