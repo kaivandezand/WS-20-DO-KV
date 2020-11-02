@@ -4,7 +4,6 @@
 >by Carolin Hitzegrad & Kai van de Zand
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 
 ### Today we want to give you answers to the following questions:
