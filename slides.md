@@ -7,7 +7,7 @@
 ---
 
 ### Today we want to give you answers to the following questions:
-<p style="text-align: left;"> <font size="6">1. How are organizations run today? /Which <span style="color:rgb(2,104,190)">**worldview** do they have?
+<p style="text-align: left;"> <font size="6">1. How are organizations run today? /Which <span style="color:rgb(2,104,190)">worldview</font size="6"> do they have?
 <p style="text-align: left;"><font size="6">2. What is a teal organization? 
 <p style="text-align: left;"><font size="6">3. Why is self-management so important?
 <p style="text-align: left;"><font size="6">4. Why should organizations strive for wholeness?</font>
