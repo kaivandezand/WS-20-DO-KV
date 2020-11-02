@@ -145,12 +145,7 @@ BT 1                      |BT 2                      |BT 3
 
 ---
 ### What is a teal organization?
-![face-mask.jpg](face-mask.jpg)
-<!-- .slide: data-transition="none" -->
----
-### What is a teal organization?
-![face.jpg](face.jpg)
-<!-- .slide: data-transition="linear" -->
+
 ---
 
 ### Breakthrough 1 - Self-Management
@@ -177,8 +172,29 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 ### Breakthrough 2 - Striving for Wholeness
+![face-mask.jpg](face-mask.jpg)
+<!-- .slide: data-transition="none" -->
+---
+### Breakthrough 2 - Striving for Wholeness
+![face.jpg](face.jpg)
+<!-- .slide: data-transition="linear" -->
+---
+<table class=”daTable”>
+<tr>
+<th>ego</th>
+<th>deeper self</th>
+</tr>
+<tr>
+<td>more accepted</td>
+<td>showing makes us feel exposed</td>
+</tr>
+</table>
+
+---
+### Breakthrough 2 - Striving for Wholeness
 
 
+---
 ### Breakthrough 3 - Evolutionary purpose
 
 ---
