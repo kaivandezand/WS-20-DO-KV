@@ -73,6 +73,13 @@
 <!-- .slide: data-transition="linear" -->
 
 ---
+
+## <span style="color:blue">**Teal Organizations**
+![organization_all.jpg](organization_all.jpg)<!-- .element height="100%" width="100%" -->
+
+<!-- .slide: data-transition="linear" -->
+
+---
 ## <span style="color:blue">**Teal Organizations**
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
