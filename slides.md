@@ -200,10 +200,20 @@ BT 1                      |BT 2                      |BT 3
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Company examples:</font>
 
-* Morningstar and FAVI -> self-management
+* <span style="color:rgb(2,104,190)">Mornginstar</font> and <span style="color:rgb(2,104,190)">FAVI</font> -> self-management
 * work can give opportunities to discover new parts of ourselves through the friction of working with others 
     * creates vibrance and aliveness
 > "Here I can be myself"
+<!-- .slide: data-transition="linear" -->
+
+---
+### Breakthrough 2 - Striving for Wholeness
+<p style="text-align: left;"> Meetings:</font>
+
+* self-managing organizations tend to have less
+* Buurtzorg: integrative decision making process in holocracy
+* FAVI: share your story!
+* Heiligenfeld: tingsha bells
 <!-- .slide: data-transition="linear" -->
 
 ---
