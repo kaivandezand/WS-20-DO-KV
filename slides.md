@@ -179,6 +179,7 @@ BT 1                      |BT 2                      |BT 3
 ![face.jpg](face.jpg)
 <!-- .slide: data-transition="linear" -->
 ---
+### Breakthrough 2 - Striving for Wholeness
 <table class=”daTable”>
 <tr>
 <th>ego</th>
@@ -193,10 +194,16 @@ BT 1                      |BT 2                      |BT 3
 <td></td>
 </tr>
 </table>
+<!-- .slide: data-transition="linear" -->
 
 ---
 ### Breakthrough 2 - Striving for Wholeness
-
+Company examples:
+* Morningstar and FAVI -> self-management
+* work can give opportunities to discover new parts of ourselves through the friction of working with others 
+    * creates vibrance and aliveness
+> "Here I can be myself"
+<!-- .slide: data-transition="linear" -->
 
 ---
 ### Breakthrough 3 - Evolutionary purpose
