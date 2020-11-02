@@ -200,7 +200,7 @@ BT 1                      |BT 2                      |BT 3
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Company examples:</font>
 
-* <span style="color:rgb(2,104,190)">Mornginstar</font> and <span style="color:rgb(2,104,190)">FAVI</font> -> self-management
+* Morningstar and FAVI -> self-management
 * work can give opportunities to discover new parts of ourselves through the friction of working with others 
     * creates vibrance and aliveness
 > "Here I can be myself"
