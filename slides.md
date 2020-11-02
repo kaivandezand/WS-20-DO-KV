@@ -145,8 +145,10 @@ BT 1                      |BT 2                      |BT 3
 
 ---
 ### What is a teal organization?
-! [face_mask.jpg](face_mask.jpg)
-
+![face-mask.jpg](face-mask.jpg)
+---
+### What is a teal organization?
+![face.jpg](face.jpg)
 ---
 
 ### Breakthrough 1 - Self-Management
