@@ -8,18 +8,18 @@
 
 ### Today we want to give you answers to the following questions:
 <p style="text-align: left;"> <font size="6">1. How are organizations run today? /Which <font size="6"><span style="color:rgb(2,104,190)">worldview</font size="6"> do they have?
-<p style="text-align: left;"><font size="6">2. What is a teal organization? 
-<p style="text-align: left;"><font size="6">3. Why is self-management so important?
-<p style="text-align: left;"><font size="6">4. Why should organizations strive for wholeness?</font>
+<p style="text-align: left;"><font size="6">2. What is a <font size="6"><span style="color:rgb(2,104,190)">teal organization</font size="6">? 
+<p style="text-align: left;"><font size="6">3. Why is <font size="6"><span style="color:rgb(2,104,190)">self-management</font size="6"> so important?
+<p style="text-align: left;"><font size="6">4. Why should organizations strive for <font size="6"><span style="color:rgb(2,104,190)">wholeness</font size="6">?</font>
 <!-- .slide: data-transition="linear" -->
 
 ---
 
 ### Today we want to give you answers to the following questions:
-<p style="text-align: left;"><font size="6">5. What is the evolutionary purpose of an organization?</font>
-<p style="text-align: left;"><font size="6">6. How do we get teal structures and purposes into our organization?</font>
-<p style="text-align: left;"><font size="6">7. What are today´s Key take-aways?
-<p style="text-align: left;"><font size="6">8. What are our References?
+<p style="text-align: left;"><font size="6">5. What is the <font size="6"><span style="color:rgb(2,104,190)">evolutionary purpose</font size="6"> of an organization?</font>
+<p style="text-align: left;"><font size="6">6. How do we get <font size="6"><span style="color:rgb(2,104,190)">teal structures and purposes</font size="6"> into our organization?</font>
+<p style="text-align: left;"><font size="6">7. What are today´s <font size="6"><span style="color:rgb(2,104,190)">key take-aways</font size="6">?
+<p style="text-align: left;"><font size="6">8. What are our <font size="6"><span style="color:rgb(2,104,190)">references</font size="6">?
 
 <!-- .slide: data-transition="linear" -->
 
