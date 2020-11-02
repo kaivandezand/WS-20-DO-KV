@@ -30,7 +30,14 @@
 >"_The way we run organizations today is broken_"
 
 <!-- .slide: data-transition="linear" -->
+---
 
+### How are organizations run today? /Which worldview do they have?
+* Employees do not feel engaged at work
+* Leaders feel under pressure from never ending streams of e-mails, meetings...
+* Costumer's trust and brand loyalty is low
+
+<!-- .slide: data-transition="linear" -->
 ---
 
 ### How are organizations run today? /Which worldview do they have?
@@ -43,9 +50,9 @@
 ---
 
 ### <span style="color:red"> **Red (impulsive worldview)**
-  + Order from the top is everything
-  + <span style="color:red">**"Mafia Lifestyle"**</span>
-  + Brutal force if needed
+  > Order from the top is everything
+  >>+ <span style="color:red">**"Mafia Lifestyle"**</span>
+  >>+ Brutal force if needed
 
 <!-- .slide: data-transition="linear" -->
 
