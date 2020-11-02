@@ -217,6 +217,20 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+### Breakthrough 2 - Striving for Wholeness
+<p style="text-align: left;"> Commitment:</font>
+
+* Buurtzorg
+<!-- .slide: data-transition="linear" -->
+
+---
+### Breakthrough 2 - Striving for Wholeness
+<p style="text-align: left;"> Performance evaluation:</font>
+
+* 
+<!-- .slide: data-transition="linear" -->
+
+---
 ### Breakthrough 3 - Evolutionary purpose
 
 ---
