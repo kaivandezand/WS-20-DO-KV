@@ -57,25 +57,71 @@
 <!-- .slide: data-transition="linear" -->
 
 ---
+### <span style="color:red"> **Red (impulsive worldview)**
 
-### <span style="color:rgb(153,76,0)"> **From Red to Amber**
+Breakthrough 1             |  Breakthrough 2
+:-------------------------:|:-------------------------:
+![organization_red_1.jpg](organization_red_1.jpg)  |  ![organization_red_2.jpg](organization_red_2.jpg)
 
-![bt_amber.jpg](bt_amber.jpg)
+
+<!-- .slide: data-transition="linear" -->
+---
+
+### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
+> ..
+> >...
+> > ...
+
+
+<!-- .slide: data-transition="linear" -->
+---
+
+### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
+
+Breakthrough (BT)1             |  Breakthrough (BT) 2
+:-------------------------:|:-------------------------:
+![organization_amber_1.jpg](organization_amber_1.jpg)  |  ![organization_amber_2.jpg](organization_amber_2.jpg)
+
+<!-- .slide: data-transition="linear" -->
+---
+
+### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
+> ..
+> >...
+> > ...
+
+<!-- .slide: data-transition="linear" -->
+---
+
+### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
+
+BT 1                      |BT 2                      |BT 3          
+:------------------------:|:------------------------:|:------------------------:|
+![organization_orange_1.jpg](organization_orange_1.jpg)|![organization_orange_2.jpg](organization_orange_2.jpg)|![organization_orange_3.jpg](organization_orange_3.jpg)    
 
 <!-- .slide: data-transition="linear" -->
 
 ---
 
-### <span style="color:orange">**From Amber to Orange**
-
-![bt_orange.jpg](/bt_orange.jpg#left)
+### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
+> ..
+> >...
+> > ...
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 
-## <span style="color:blue">**Teal Organizations**
-![organization_all.jpg](organization_all.jpg)<!-- .element height="100%" width="100%" -->
+### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
+BT 1                      |BT 2                      |BT 3          
+:------------------------:|:------------------------:|:------------------------:|
+![organization_green_1.jpg](organization_green_1.jpg)|![organization_green_2.jpg](organization_green_2.jpg)|![organization_green_3.jpg](organization_green_3.jpg)
+
+<!-- .slide: data-transition="linear" -->
+---
+
+
+### <span style="color:blue">**Teal Organizations**
+![organization_all.jpg](organization_all.jpg)<!-- .element height="130%" width="130%" -->
 
 <!-- .slide: data-transition="linear" -->
 
