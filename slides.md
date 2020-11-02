@@ -114,19 +114,19 @@ BT 1                      |BT 2                      |BT 3
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
 BT 1                      |BT 2                      |BT 3          
 :------------------------:|:------------------------:|:------------------------:|
-![organization_green_1.jpg](organization_green_1.jpg)|![organization_green_2.jpg](organization_green_2.jpg)|![organization_green_3.jpg](organization_green_3.jpg)
+![organization_green_1.jpg](organization_green_1.jpg)|![organization_green_2_2.jpg](organization_green_2_2.jpg)|![organization_green_3_2.jpg](organization_green_3_2.jpg)
 
 <!-- .slide: data-transition="linear" -->
 ---
 
 
-### <span style="color:blue">**Teal Organizations**
+### <span style="color:rgb(2,104,190)">**Teal Organizations**
 ![organization_all.jpg](organization_all.jpg)<!-- .element height="130%" width="130%" -->
 
 <!-- .slide: data-transition="linear" -->
 
 ---
-## <span style="color:blue">**Teal Organizations**
+## <span style="color:rgb(2,104,190)">**Teal Organizations**
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
 
