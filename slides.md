@@ -149,44 +149,44 @@ BT 1                      |BT 2                      |BT 3
 
 ---
 
-# Breakthrough 1 - Self-Management
+### Breakthrough 1 - Self-Management
 ![complexity.jpg](complexity.jpg)
 
 > Bye bye Hierarchy - Hello collective intelligence
 
-## Organizational Structure 
+### Organizational Structure 
 ![self_management.jpg](self_management.jpg)
 
 
-## Decision-Making
+### Decision-Making
 
 ---
 
-## Perfromance Management
+### Perfromance Management
 
 ---
 
-## Compensation and incentitives
+### Compensation and incentitives
 
 
 
 ---
 
-# Breakthrough 2 - Striving for Wholeness
+### Breakthrough 2 - Striving for Wholeness
 
 
-# Breakthrough 3 - Evolutionary purpose
-
----
-
-## Budgets
+### Breakthrough 3 - Evolutionary purpose
 
 ---
 
-## Change Management
+### Budgets
 
 ---
 
-## Final remarks
+### Change Management
+
+---
+
+### Final remarks
 
 
