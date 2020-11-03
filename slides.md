@@ -275,16 +275,14 @@ BT 1                      |BT 2                      |BT 3
 ####	<span style="color:rgb(2,104,190)">**Sense-and-Respond** 
 >	We are <span style="color:rgb(2,104,190)">**present**</span> and with all our <span style="color:rgb(2,104,190)">**senses fully in play**</span>, we take lots of <span style="color:rgb(2,104,190)">**input** </span>, consciously and unconsciously, and we <span style="color:rgb(2,104,190)">**continuously adjust to reality**</span>
 
----
-
-### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
-##### Budgets
-
 <!-- .slide: data-transition="linear" -->
 ---
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
-##### Change Management
++ Teal Organizations <span style="color:rgb(2,104,190)">**do not have fixed budgets**</span>
+    + all the units are asked to <span style="color:rgb(2,104,190)">**submit the numbers of what they need**</span>: that is the budget
++ In teal organizations you <span style="color:rgb(2,104,190)">**do not need to impose change** </span> from the outside
+    + innate capacity to <span style="color:rgb(2,104,190)">**sense changes**</span> in their environment and to <span style="color:rgb(2,104,190)">**adapt**</span> from within
 
 <!-- .slide: data-transition="linear" -->
 ---
