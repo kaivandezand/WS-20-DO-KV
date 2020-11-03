@@ -141,7 +141,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 ### What is a teal organization?
 
-![pyramide_teal.jpg](pyramide_teal.jpg)
+![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
 <!-- .slide: data-transition="linear" -->
 
 ---
