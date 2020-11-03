@@ -287,15 +287,6 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 
-### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
-##### Final remarks
-
-
-
-<!-- .slide: data-transition="linear" -->
-
----
-<!-- .slide: data-background="./flowing-agenda.jpg" -->
 ### flowing agenda
 1. changes
 
