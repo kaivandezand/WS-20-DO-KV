@@ -178,15 +178,15 @@ BT 1                      |BT 2                      |BT 3
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Decision-Making
 ![decision.jpg](decision.jpg)<!-- .element height="50%" width="50%" -->
+
+<!-- .slide: data-transition="linear" -->
 ---
-
-### Perfromance Management
-
----
-
-### Compensation and incentitives
-
-
+### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
+##### Is it really unproven?
+<br/><br/>                      |  <br/><br/>
+:-------------------------:|:-------------------------:
+![buurtzorg.jpg.jpg](buurtzorg.jpg)| ![morningstar.jpg](morningstar.jpg)
+<!-- .slide: data-transition="linear" -->
 
 ---
 
