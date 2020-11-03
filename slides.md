@@ -195,7 +195,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="none" -->
 ---
 ### Breakthrough 2 - Striving for Wholeness
-![face.jpg](face.jpg)
+![face.jpg](face.jpg)<!-- .element height="70%" width="70%" -->
 <!-- .slide: data-transition="none" -->
 ---
 ### Breakthrough 2 - Striving for Wholeness
