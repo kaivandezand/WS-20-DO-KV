@@ -265,6 +265,12 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-transition="linear" -->
 ---
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+
+![purpose_orange.jpg](purpose_orange.jpg)
+
+<!-- .slide: data-transition="linear" -->
+---
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ##### Budgets
