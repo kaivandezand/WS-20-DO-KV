@@ -287,8 +287,6 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure.jpg" -->
-### <span style="color:rgb(231,18,36)"> **.**
-### <span style="color:rgb(231,18,36)"> **.**
 ### test
 * wd
 * 
