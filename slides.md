@@ -286,3 +286,8 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-transition="linear" -->
 ---
+
+## test
+
+<!-- .slide: data-background: contain="./agenda.jpg" -->
+
