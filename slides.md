@@ -289,8 +289,5 @@ BT 1                      |BT 2                      |BT 3
 
 ## test
 
-background-image: url(agenda.jpg);
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: contain;
-  -moz-background-size: contain;
+
+  <!-- .slide: data-background="./agenda.jpg" background-attachment: fixed; background-repeat: no-repeat; background-size: contain; -moz-background-size: contain;-->
