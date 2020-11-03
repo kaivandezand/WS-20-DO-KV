@@ -196,7 +196,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 ### Breakthrough 2 - Striving for Wholeness
 ![face.jpg](face.jpg)
-<!-- .slide: data-transition="linear" -->
+<!-- .slide: data-transition="none" -->
 ---
 ### Breakthrough 2 - Striving for Wholeness
 <table class=”daTable”>
