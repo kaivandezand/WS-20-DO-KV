@@ -142,23 +142,42 @@ BT 1                      |BT 2                      |BT 3
 ### What is a teal organization?
 
 ![pyramide_teal.jpg](pyramide_teal.jpg)
+<!-- .slide: data-transition="linear" -->
 
 ---
 ### What is a teal organization?
 
+<!-- .slide: data-transition="linear" -->
 ---
 
-### Breakthrough 1 - Self-Management
-![complexity.jpg](complexity.jpg)
+### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 
-> Bye bye Hierarchy - Hello collective intelligence
+<br/><br/>                      |  <br/><br/>
+:-------------------------:|:-------------------------:
+![complexity.jpg](complexity.jpg)| Bye bye Hierarchy - Hello collective intelligence
 
-### Organizational Structure 
-![self_management.jpg](self_management.jpg)
+<!-- .slide: data-transition="linear" -->
+---
 
+### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 
-### Decision-Making
+#### 3 Missunderstandings with <span style="color:rgb(2,104,190)">self-management</span>
+1. Self-management means that there is <span style="color:rgb(2,104,190)">**no structure**</span>, that everything is <span style="color:rgb(2,104,190)">**informal**</span> and <span style="color:rgb(2,104,190)">**chaotic**</span>
+2. Self-management = consensus decision making = endless meetings
+3. Self-management is <span style="color:rgb(2,104,190)">**experimental**</span> and <span style="color:rgb(2,104,190)">**unproven**</span>
 
+<!-- .slide: data-transition="linear" -->
+---
+### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
+##### Organizational Structure 
+![self_management.jpg](self_management.jpg)<!-- .element height="70%" width="70%" -->
+
+<!-- .slide: data-transition="linear" -->
+---
+
+### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
+##### Decision-Making
+![decision.jpg](decision.jpg)<!-- .element height="50%" width="50%" -->
 ---
 
 ### Perfromance Management
