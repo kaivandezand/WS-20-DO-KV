@@ -290,4 +290,7 @@ BT 1                      |BT 2                      |BT 3
 ## test
 
 <!-- .slide: data-background="./agenda.jpg" -->
-background-position:  <20>[, <center>]*
+{
+  background-image: url("logo.png");
+  background-position: 25% 75%;
+}
