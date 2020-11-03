@@ -250,7 +250,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
-### Breakthrough 3 - Evolutionary purpose
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?</font>
 
 <table class=”daTable”>
 <tr>
@@ -263,17 +263,27 @@ BT 1                      |BT 2                      |BT 3
 </tr>
 </table>
 
+<!-- .slide: data-transition="linear" -->
 ---
 
-### Budgets
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+##### Budgets
 
+<!-- .slide: data-transition="linear" -->
 ---
 
-### Change Management
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+##### Change Management
 
+<!-- .slide: data-transition="linear" -->
 ---
 
-### Final remarks
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+##### Final remarks
+
+
+
+<!-- .slide: data-transition="linear" -->
 
 ---
 <!-- .slide: data-background="./flowing-agenda.jpg" -->
