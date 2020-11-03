@@ -294,6 +294,6 @@ data-background-size="100px" data-background-repeat="repeat" data-background-col
 
 ---
 #test
-<section data-background="agenda.jpg" data-state="img-contain"> 
+<section data-background="agenda.jpg" data-background-size="img-contain"> 
 text
 </section> 
