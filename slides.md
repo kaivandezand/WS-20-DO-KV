@@ -289,5 +289,6 @@ BT 1                      |BT 2                      |BT 3
 
 ## test
 
-<!-- .slide: data-background="./agenda-test.jpg" 
+<!-- .slide: data-background="./agenda-test.jpg" -->
+
 
