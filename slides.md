@@ -266,10 +266,15 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
-
+####	<span style="color:rgb(246,99,13)">**Predict-and-Control** 
 ![purpose_orange.jpg](purpose_orange.jpg)
 
 <!-- .slide: data-transition="linear" -->
+---
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+####	<span style="color:rgb(2,104,190)">**Sense-and-Respond** 
+>	We are <span style="color:rgb(2,104,190)">**present**</span> and with all our <span style="color:rgb(2,104,190)">**senses fully in play**</span>, we take lots of <span style="color:rgb(2,104,190)">**input** </span>, consciously and unconsciously, and we <span style="color:rgb(2,104,190)">**continuously adjust to reality**</span>
+
 ---
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
