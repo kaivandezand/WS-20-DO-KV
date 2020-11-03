@@ -49,7 +49,7 @@
 
 ---
 
-### <span style="color:red"> **Red (impulsive worldview)**
+### <span style="color:rgb(231,18,36)"> **Red (impulsive worldview)**
   > Order from the top is everything
   >>+ No internalized rules
   >>+ Brutal force if needed
@@ -58,7 +58,7 @@
 <!-- .slide: data-transition="linear" -->
 
 ---
-### <span style="color:red"> **Red (impulsive worldview)**
+### <span style="color:rgb(231,18,36)"> **Red (impulsive worldview)**
 
 Breakthrough (BT) 1             |  Breakthrough (BT) 2
 :-------------------------:|:-------------------------:
