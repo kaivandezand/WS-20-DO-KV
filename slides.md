@@ -291,3 +291,10 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-background="./agenda.jpg" 
 data-background-size="100px" data-background-repeat="repeat" data-background-color="#111" -->
+
+---
+# test
+
+<section data-background="agenda.jpg" data-state="img-right"> 
+    // content 
+</section> 
