@@ -142,7 +142,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure2.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
+### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
 
 ![stapel_alle.jpg](stapel_alle.jpg)<!-- .element height="40%" width="40%" -->
 
@@ -151,7 +151,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 <!-- .slide: data-background="./structure2.jpg" -->
-### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
+### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
 
@@ -161,7 +161,7 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-background="./structure2.jpg" -->
 
-### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
+### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
 
 <!-- .slide: data-transition="linear" -->
@@ -169,7 +169,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 <!-- .slide: data-background="./structure2.jpg" -->
-### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
+### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
 
 <!-- .slide: data-transition="linear" -->
 ---
