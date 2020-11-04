@@ -257,10 +257,6 @@ BT 1                      |BT 2                      |BT 3
 <td>more accepted</td>
 <td>showing makes us feel exposed</td>
 </tr>
-<tr>
-<td>masculine vs. feminine</td>
-<td></td>
-</tr>
 </table>
 <!-- .slide: data-transition="linear" -->
 
