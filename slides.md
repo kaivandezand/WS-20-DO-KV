@@ -259,7 +259,7 @@ BT 1                      |BT 2                      |BT 3
 
 * Dogs at workplace
 * Patagonia´s Child Development Center for employee´s children
-* Would a truthful recruiting process without wearing masks be possible?
+* Truthful recruiting process without wearing "masks"
 > Create safe space for employees
 
 <!-- .slide: data-transition="linear" -->
