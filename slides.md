@@ -367,11 +367,10 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 <!-- .slide: data-background="./structure5.jpg" -->
-<span style="color:rgb(0,0,0)"> **.**
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ##### A small example of change
-![hips.jpg](hips.jpg)<!-- .element height="40%" width="40%" -->
+![hips.jpg](hips.jpg)<!-- .element height="350%" width="35%" -->
 
 <!-- .slide: data-transition="linear" -->
 
@@ -391,7 +390,7 @@ BT 1                      |BT 2                      |BT 3
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ##### A small example of change
-![hips_end.jpg](hips_end.jpg)
+![hips_end.jpg](hips_end.jpg)<!-- .element height="70%" width="70%" -->
 
 <!-- .slide: data-transition="linear" -->
 
