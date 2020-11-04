@@ -189,7 +189,7 @@ BT 1                      |BT 2                      |BT 3
 
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Organizational Structure 
-![self_management.jpg](self_management.jpg)<!-- .element height="55%" width="55%" -->
+![self_management_neu.jpg](self_management_neu.jpg)<!-- .element height="30%" width="30%" -->
 
 <!-- .slide: data-transition="linear" -->
 ---
