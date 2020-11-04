@@ -25,14 +25,14 @@
 
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
-### How are organizations run today? /Which worldview do they have?
+### How are organizations run today? /Which <span style="color:rgb(2,104,190)">worldview</span> do they have?
 
 >"_The way we run organizations today is broken_"
 
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
-### How are organizations run today? /Which worldview do they have?
+### How are organizations run today? /Which <span style="color:rgb(2,104,190)">worldview</span> do they have?
 * Employees do not feel engaged at work
 * Leaders feel under pressure from never ending streams of e-mails, meetings...
 * Costumer's trust and brand loyalty is low
@@ -40,7 +40,7 @@
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
-### How are organizations run today? /Which worldview do they have?
+### How are organizations run today? /Which <span style="color:rgb(2,104,190)">worldview</span> do they have?
 
 
 ![steps.jpg](steps.jpg)<!-- .element height="50%" width="50%" -->
@@ -51,9 +51,9 @@
 <!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(231,18,36)"> **Red (impulsive worldview)**
   > Order from the top is everything
-  >>+ No internalized rules
-  >>+ Brutal force if needed
-  >>+ Power is the way on looking at the world
+  + No internalized rules
+  + Brutal force if needed
+  + Power is the way on looking at the world
 
 <!-- .slide: data-transition="linear" -->
 
@@ -66,16 +66,15 @@ Breakthrough (BT) 1             |  Breakthrough (BT) 2
 :-------------------------:|:-------------------------:
 ![organization_red_1.jpg](organization_red_1.jpg)  |  ![organization_red_2.jpg](organization_red_2.jpg)
 
-
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
 > Everything is about stability and certainty
->>+ Internalized rules and exercise self-discipline
->>+ Guilt and shame as the glue of society
->>+ Clear ranks and first hierarchical pyramids
++ Internalized rules 
++ Guilt and shame as the glue of society
++ Clear ranks and first hierarchical pyramids
 
 
 <!-- .slide: data-transition="linear" -->
@@ -93,9 +92,9 @@ BT 1                       |  BT 2
 <span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
 > Defined by materialistic obsession & social inequality
->>+ The world is no longer seen as fixed by rules
->>+  Be anyone you want to be
->>+  Achieve anything you set your mind to
++ The world is no longer fixed by rules
++  Be anyone you want to be
++  Achieve anything you set your mind to
 
 <!-- .slide: data-transition="linear" -->
 ---
@@ -113,11 +112,10 @@ BT 1                      |BT 2                      |BT 3
 <span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
 
-> People are aware of orange’s materialistic obsession
->>+ Happiness is important to the organization’s overall success
->>+ Organization as families
->>+ Aspires to be egalitarian and consensus seeking
-
+> Organization as families
++ Happiness is important to the organization’s overall success
++ Aspires to be egalitarian and consensus seeking
++ Aware of orange’s materialistic obsession
 
 <!-- .slide: data-transition="linear" -->
 ---
@@ -265,7 +263,11 @@ BT 1                      |BT 2                      |BT 3
 * HR process
     * Would a truthful recruiting process without wearing masks be possible?
 > Create safe space for employees
+
+<!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
@@ -278,6 +280,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure4.jpg" -->
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Commitment:</font>
@@ -291,6 +294,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure4.jpg" -->
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Performance evaluation:</font>
@@ -306,36 +310,45 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure5.jpg" -->
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?</font>
 
 <table class=”daTable”>
 <tr>
+<th>Purpose</th>
 <th>Noble Purpose</th>
 <th>Evolutionary Purpose</th>
 </tr>
 <tr>
-<td>organization truly takes its purpose seriously</td>
-<td>organization listens and dances with that purpose</td>
+<td>Provides guidance and inspiration</td>
+<td>Organization truly takes its purpose seriously</td>
+<td>Organization listens and dances with that purpose</td>
 </tr>
 </table>
 
 <!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure5.jpg" -->
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ####	<span style="color:rgb(246,99,13)">**Predict-and-Control** 
 ![purpose_orange.jpg](purpose_orange.jpg)
 
 <!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure5.jpg" -->
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ####	<span style="color:rgb(2,104,190)">**Sense-and-Respond** 
 >	We are <span style="color:rgb(2,104,190)">**present**</span> and with all our <span style="color:rgb(2,104,190)">**senses fully in play**</span>, we take lots of <span style="color:rgb(2,104,190)">**input** </span>, consciously and unconsciously, and we <span style="color:rgb(2,104,190)">**continuously adjust to reality**</span>
 
 <!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure5.jpg" -->
 <span style="color:rgb(0,0,255)"> **.**
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
@@ -345,24 +358,36 @@ BT 1                      |BT 2                      |BT 3
     + innate capacity to <span style="color:rgb(2,104,190)">**sense changes**</span> in their environment and to <span style="color:rgb(2,104,190)">**adapt**</span> from within
 
 <!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure6.jpg" -->
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 Two necessary conditions:
 1. Top leadership
 2. Ownership
+
+<!-- .slide: data-transition="linear" -->
+
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 > What do you think?\
 > Is it easier to start a new teal organization from scratch or to transform an existing one?
 
+<!-- .slide: data-transition="linear" -->
+
+
 ---
+
 <!-- .slide: data-background="./structure6.jpg" -->
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 > Usually, it is easier to start a teal organization from scratch because you can define how the organization will look like
 
 >But how do we transform an existing organization?
+
+<!-- .slide: data-transition="linear" -->
+
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
@@ -372,6 +397,8 @@ CEO of FAVI answers:
 
 * We need to upgrade how we think about change
     * complex vs complicated system
+
+<!-- .slide: data-transition="linear" -->
 
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
@@ -393,7 +420,10 @@ Important to keep in mind:
     * being public face
     * being sensor of where the organization will go to
 
+<!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure7.jpg" -->
 
 
