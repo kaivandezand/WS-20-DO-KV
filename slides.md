@@ -310,6 +310,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure5.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 + Teal Organizations <span style="color:rgb(2,104,190)">**do not have fixed budgets**</span>
     + all the units are asked to <span style="color:rgb(2,104,190)">**submit the numbers of what they need**</span>: that is the budget
@@ -331,17 +332,11 @@ BT 1                      |BT 2                      |BT 3
 
 ---
 <!-- .slide: data-background="./structure.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### test
-* wd
+* slide grün1 braucht noch kleinere schriftgröße
 * 
 * 
 *
 
 ---
-
-
-
-## test2
-
-<!-- .slide: data-background="./new-structure1.jpg"
-<!-- .element height="70%" width="70%" -->
