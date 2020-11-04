@@ -297,8 +297,7 @@ BT 1                      |BT 2                      |BT 3
 
 * (Un)acceptable reasons
 * small self-managing team structure supports flexibility
-   * Buurtzorg: nurses take extra patiens
-   * FAVI: swaps shifts
+    * Supported by Buurtzorg and FAVI
 > you are flexible but you need to fulfill your commitments
 <!-- .slide: data-transition="linear" -->
 
