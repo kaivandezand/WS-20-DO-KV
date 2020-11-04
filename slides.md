@@ -145,21 +145,23 @@ BT 1                      |BT 2                      |BT 3
 
 ---
 <!-- .slide: data-background="./structure2.jpg" -->
-## <span style="color:rgb(2,104,190)">**Teal Organizations**
+### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
 
 <!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure2.jpg" -->
 
+### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
 
 ---
 
 <!-- .slide: data-background="./structure2.jpg" -->
-### What is a teal organization?
+### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
 
 <!-- .slide: data-transition="linear" -->
 ---
@@ -216,19 +218,22 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### Breakthrough 2 - Striving for Wholeness
+### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
+
 ![face-mask.jpg](face-mask.jpg)<!-- .element height="50%" width="50%" -->
 <!-- .slide: data-transition="none" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
-### Breakthrough 2 - Striving for Wholeness
+
+### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
+
 ![face.jpg](face.jpg)<!-- .element height="50%" width="50%" -->
 <!-- .slide: data-transition="none" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
+### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
 
-### Breakthrough 2 - Striving for Wholeness
 <table class=”daTable”>
 <tr>
 <th>ego</th>
@@ -249,13 +254,13 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### Breakthrough 2 - Striving for Wholeness
+### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
 <p style="text-align: left;"> Wholeness at the workplace:</font>
 
-* Employees shows only 1/16 of his true self at work
-* Opportunity to discover new parts of ourselves 
+* Employees <span style="color:rgb(2,104,190)">show only 1/16</span> of their true self at work
+* Opportunity to <span style="color:rgb(2,104,190)">discover new parts</span> of ourselves 
     * friction of working with others 
-    * creates vibrance and aliveness
+    * creates <span style="color:rgb(2,104,190)">vibrance</span> and <span style="color:rgb(2,104,190)">aliveness</span>
 > "Here I can be myself"
 <!-- .slide: data-transition="linear" -->
 
@@ -263,12 +268,12 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### Breakthrough 2 - Striving for Wholeness
+### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
 <p style="text-align: left;"> Wholeness at the workplace:</font>
 
-* Dogs at workplace
-* Patagonia´s Child Development Center for employee´s children
-* Truthful recruiting process without "masks"
+* <span style="color:rgb(2,104,190)">Dogs</span> at workplace
+* Patagonia´s <span style="color:rgb(2,104,190)">Child Development Center</span> for employee´s children
+* Truthful <span style="color:rgb(2,104,190)">recruiting</span> process without "masks"
 > Create safe space for employees
 
 <!-- .slide: data-transition="linear" -->
@@ -278,13 +283,13 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### Breakthrough 2 - Striving for Wholeness
+### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
 <p style="text-align: left;"> Meetings:</font>
 
 * self-managing organizations tend to have less
-* Buurtzorg: integrative decision making process in holocracy
+* Buurtzorg: <span style="color:rgb(2,104,190)">integrative decision making process</span> in holocracy
 * FAVI: share your story!
-* Heiligenfeld: tingsha bells
+* Heiligenfeld: <span style="color:rgb(2,104,190)">tingsha bells</span>
 <!-- .slide: data-transition="linear" -->
 
 ---
@@ -292,11 +297,11 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### Breakthrough 2 - Striving for Wholeness
+### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
 <p style="text-align: left;"> Commitment:</font>
 
 * (Un)acceptable reasons
-* small self-managing team structure supports flexibility
+* small self-managing team structure supports <span style="color:rgb(2,104,190)">flexibility</span>
     * Supported by Buurtzorg and FAVI
 > you are flexible but you need to fulfill your commitments
 <!-- .slide: data-transition="linear" -->
@@ -305,13 +310,13 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### Breakthrough 2 - Striving for Wholeness
+### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
 <p style="text-align: left;"> Performance evaluation:</font>
 
 * Sounds True method
-    * Provoking questions enhances reflection
+    * <span style="color:rgb(2,104,190)">Provocing questions</span> enhances <span style="color:rgb(2,104,190)">reflection</span>
     * Colleagues convene and give notes afterwards
-    > Goal: do not feel judged and share your feedback!
+    > Goal: do not feel judged and <span style="color:rgb(2,104,190)">share</span> your feedback!
 <!-- .slide: data-transition="linear" -->
 
 ---
@@ -365,8 +370,8 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
-
 <!-- .slide: data-background="./structure5.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ##### A small example of change
@@ -414,14 +419,13 @@ Two necessary conditions:
 
 
 ---
-
 <!-- .slide: data-background="./structure6.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
-> Usually, it is easier to start a teal organization from scratch because you can define how the organization will look like
+> Usually, it is easier to start a teal organization <span style="color:rgb(2,104,190)">from scratch</span> because you can define how the organization will look like
 
->But how do we transform an existing organization?
+>But how do we <span style="color:rgb(2,104,190)">transform</span> an existing organization?
 
 <!-- .slide: data-transition="linear" -->
 
@@ -433,7 +437,7 @@ CEO of FAVI answers:
 > There is no one recipe!
 
 * We need to upgrade how we think about change
-    * complex vs complicated system
+    * <span style="color:rgb(2,104,190)">complex vs. comlicated</span> system
 
 <!-- .slide: data-transition="linear" -->
 
@@ -452,22 +456,21 @@ CEO of FAVI answers:
 <!-- .slide: data-background="./structure6.jpg" -->
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 Important to keep in mind:
-* Start where the energy is waiting
-* Self-correction is powerful
+* Start where the <span style="color:rgb(2,104,190)">energy</span> is waiting
+* <span style="color:rgb(2,104,190)">Self-correction</span> is powerful
 * Role of the CEO changes
-    * public face
-    * sensor of where the organization will go to
+    * <span style="color:rgb(2,104,190)">Public face</span>
+    * <span style="color:rgb(2,104,190)">Sensor</span> of where the organization will go to
 
 <!-- .slide: data-transition="linear" -->
 
 ---
-
 <!-- .slide: data-background="./structure7.jpg" -->
-
+### What are <span style="color:rgb(2,104,190)">today´s key take-aways</span>?
 
 ---
 <!-- .slide: data-background="./structure8.jpg" -->
-
+### What are our<span style="color:rgb(2,104,190)">references</span>?
 
 ---
 <!-- .slide: data-background="./structure.jpg" -->
@@ -475,14 +478,3 @@ Important to keep in mind:
 
 KAHOOT!
 
-
----
-<!-- .slide: data-background="./structure.jpg" -->
-<span style="color:rgb(0,0,0)"> **.**
-### test
-* slide grün1 braucht noch kleinere schriftgröße
-* 
-* 
-*
-
----
