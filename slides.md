@@ -126,7 +126,9 @@ BT 1                      |BT 2                      |BT 3
 ![organization_green_1.jpg](organization_green_1.jpg)|![organization_green_2_2.jpg](organization_green_2_2.jpg)|![organization_green_3_2.jpg](organization_green_3_2.jpg)
 
 <!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(2,104,190)">**What now?**
@@ -135,15 +137,18 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure2.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
 
 ![stapel_alle.jpg](stapel_alle.jpg)<!-- .element height="40%" width="40%" -->
+
 <!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure2.jpg" -->
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
 * emerging & evolutionary form of organizations
@@ -157,6 +162,8 @@ BT 1                      |BT 2                      |BT 3
 
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
+
+<!-- .slide: data-transition="linear" -->
 
 ---
 
