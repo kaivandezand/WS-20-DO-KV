@@ -290,13 +290,13 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 <!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Commitment:</font>
 
 * (Un)acceptable reasons
-* small self-managing team structure
-   * supports flexibility in short notice changes
+* small self-managing team structure supports flexibility
    * Buurtzorg: nurses take extra patiens
    * FAVI: swaps shifts
 > you are flexible but you need to fulfill your commitments
