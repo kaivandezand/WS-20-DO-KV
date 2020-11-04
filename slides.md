@@ -244,9 +244,9 @@ BT 1                      |BT 2                      |BT 3
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Wholeness at the workplace:</font>
 
-* Average person shows only 1/16 of his true self at work
-* work can give opportunities to discover new parts of ourselves 
-    * through the friction of working with others 
+* Employees shows only 1/16 of his true self at work
+* Opportunity to discover new parts of ourselves 
+    * friction of working with others 
     * creates vibrance and aliveness
 > "Here I can be myself"
 <!-- .slide: data-transition="linear" -->
