@@ -258,10 +258,8 @@ BT 1                      |BT 2                      |BT 3
 <p style="text-align: left;"> Wholeness at the workplace:</font>
 
 * Dogs at workplace
-* Patagonia
-    * Child Development Center for employee´s children
-* HR process
-    * Would a truthful recruiting process without wearing masks be possible?
+* Patagonia´s Child Development Center for employee´s children
+* Would a truthful recruiting process without wearing masks be possible?
 > Create safe space for employees
 
 <!-- .slide: data-transition="linear" -->
@@ -285,7 +283,7 @@ BT 1                      |BT 2                      |BT 3
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Commitment:</font>
 
-* Canceling a meeting for a child´s school play may not be an acceptable reason
+* (Un)acceptable reasons
 * small self-managing team structure
    * supports flexibility in short notice changes
    * Buurtzorg: nurses take extra patiens
@@ -299,13 +297,10 @@ BT 1                      |BT 2                      |BT 3
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Performance evaluation:</font>
 
-* Difficult for both sides
 * Not a conversation from heart
-    * Employees do not feel aspired afterwards
 * Sounds True method
-    * Provoking questions should make employee reflect his behaviour
-    * Group of colleagues convene and give notes afterwards
-    * Employee can reflect
+    * Provoking questions should enhance employee reflecting
+    * Colleagues convene and give notes afterwards
     > Goal: do not feel judged and share your feedback!
 <!-- .slide: data-transition="linear" -->
 
@@ -350,7 +345,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 <!-- .slide: data-background="./structure5.jpg" -->
-<span style="color:rgb(0,0,255)"> **.**
+
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 + Teal Organizations <span style="color:rgb(2,104,190)">**do not have fixed budgets**</span>
     + all the units are asked to <span style="color:rgb(2,104,190)">**submit the numbers of what they need**</span>: that is the budget
@@ -413,12 +408,11 @@ PICTURE
 <!-- .slide: data-background="./structure6.jpg" -->
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 Important to keep in mind:
-* Many starting points paralyze
-    * Start where the energy is waiting
+* Start where the energy is waiting
 * Self-correction is powerful
 * Role of the CEO changes
-    * being public face
-    * being sensor of where the organization will go to
+    * public face
+    * sensor of where the organization will go to
 
 <!-- .slide: data-transition="linear" -->
 
