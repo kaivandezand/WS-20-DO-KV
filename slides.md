@@ -112,6 +112,8 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
+<span size="4">
+
 > People are aware of orange’s materialistic obsession
 >>+ Happiness is important to the organization’s overall success
 >>+ Organization as families
