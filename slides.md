@@ -234,7 +234,7 @@ BT 1                      |BT 2                      |BT 3
 
 ### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
 
-![face-mask.jpg](face-mask.jpg)<!-- .element height="50%" width="50%" -->
+![face.jpg](face.jpg)<!-- .element height="50%" width="50%" -->
 <!-- .slide: data-transition="none" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
@@ -242,7 +242,7 @@ BT 1                      |BT 2                      |BT 3
 
 ### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
 
-![face.jpg](face.jpg)<!-- .element height="50%" width="50%" -->
+![face-mask.jpg](face-mask.jpg)<!-- .element height="50%" width="50%" -->
 <!-- .slide: data-transition="none" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
