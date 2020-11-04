@@ -138,6 +138,14 @@ BT 1                      |BT 2                      |BT 3
 
 ---
 <!-- .slide: data-background="./structure2.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
+### What is a teal organization?
+
+![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
+<!-- .slide: data-transition="linear" -->
+
+---
+<!-- .slide: data-background="./structure2.jpg" -->
 ## <span style="color:rgb(2,104,190)">**Teal Organizations**
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
@@ -148,15 +156,9 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure2.jpg" -->
 
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
----
-<!-- .slide: data-background="./structure2.jpg" -->
-<span style="color:rgb(0,0,0)"> **.**
-### What is a teal organization?
-
-![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
-<!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure2.jpg" -->
 ### What is a teal organization?
 
