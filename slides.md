@@ -211,13 +211,13 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
-![face-mask.jpg](face-mask.jpg)<!-- .element height="60%" width="60%" -->
+![face-mask.jpg](face-mask.jpg)<!-- .element height="50%" width="50%" -->
 <!-- .slide: data-transition="none" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
-![face.jpg](face.jpg)<!-- .element height="60%" width="60%" -->
+![face.jpg](face.jpg)<!-- .element height="50%" width="50%" -->
 <!-- .slide: data-transition="none" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
