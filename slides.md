@@ -347,7 +347,51 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
+### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
+Two necessary conditions:
+1. Top leadership
+2. Ownership
+---
+<!-- .slide: data-background="./structure6.jpg" -->
+### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
+> What do you think?\
+> Is it easier to start a new teal organization from scratch or to transform an existing one?
 
+---
+<!-- .slide: data-background="./structure6.jpg" -->
+### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
+> Usually, it is easier to start a teal organization from scratch because you can define how the organization will look like
+
+>But how do we transform an existing organization?
+---
+<!-- .slide: data-background="./structure6.jpg" -->
+### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
+
+CEO of FAVI answers:
+> There is no one recipe!
+
+* We need to upgrade how we think about change
+    * complex vs complicated system
+
+---
+<!-- .slide: data-background="./structure6.jpg" -->
+### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
+
+4 options to start:
+
+PICTURE
+
+
+---
+<!-- .slide: data-background="./structure6.jpg" -->
+### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
+Important to keep in mind:
+* Many starting points paralyze
+    * Start where the energy is waiting
+* Self-correction is powerful
+* Role of the CEO changes
+    * being public face
+    * being sensor of where the organization will go to
 
 ---
 <!-- .slide: data-background="./structure7.jpg" -->
