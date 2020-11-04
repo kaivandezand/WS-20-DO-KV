@@ -162,7 +162,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure2.jpg" -->
 
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
->All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
+>All of us have deep yearning for wholeness, reuniting with all of who we are, with all around and all forms of life and nature
 
 <!-- .slide: data-transition="linear" -->
 
@@ -321,7 +321,7 @@ BT 1                      |BT 2                      |BT 3
 > Do not feel judged and <span style="color:rgb(2,104,190)">share</span> your feedback!
 
 * Sounds True method
-    * <span style="color:rgb(2,104,190)">Provocing questions</span> enhance <span style="color:rgb(2,104,190)">reflection</span>
+    * <span style="color:rgb(2,104,190)">Provoking questions</span> enhance <span style="color:rgb(2,104,190)">reflection</span>
     * Colleagues convene and give notes afterwards
     
 <!-- .slide: data-transition="linear" -->
@@ -369,10 +369,10 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure5.jpg" -->
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+##### Budgets
+
 + Teal Organizations <span style="color:rgb(2,104,190)">**do not have fixed budgets**</span>
     + all the units are asked to <span style="color:rgb(2,104,190)">**submit the numbers of what they need**</span>: that is the budget
-+ In teal organizations you <span style="color:rgb(2,104,190)">**do not need to impose change** </span> from the outside
-    + innate capacity to <span style="color:rgb(2,104,190)">**sense changes**</span> in their environment and to <span style="color:rgb(2,104,190)">**adapt**</span> from within
 
 <!-- .slide: data-transition="linear" -->
 
@@ -478,10 +478,10 @@ Important to keep in mind:
 <!-- .slide: data-background="./structure7.jpg" -->
 ### What are <span style="color:rgb(2,104,190)">today´s key take-aways</span>?
 
-1. 
-2. 
-3. 
-4. 
++ The goal is not to make everyone equally powerful but fully powerful, so <span style="color:rgb(2,104,190)">**everyone can grow to the strongest, healthiest versions of themselves**</span>!
++ Pull back your ego and release your <span style="color:rgb(2,104,190)">**deeper self**</span>!
++ Teal organizations are <span style="color:rgb(2,104,190)">**continously evolving** </span>as their einveironment does it too!
++ There is no recipe on how to become teal. It's a <span style="color:rgb(2,104,190)">**trial & error**</span> process!
 
 <!-- .slide: data-transition="linear" -->
 
@@ -493,16 +493,23 @@ Important to keep in mind:
 **Laloux,** F. & Appert, E. (2016). Reinventing organizations: An illustrated invitation to join the conversation on next-stage organizations. Brussels, Belgium: Nelson Parker.
 
 <!-- .slide: data-transition="linear" -->
+
+<!-- .slide: data-background="./structure.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
+### <span style="color:rgb(2,104,190)">Time for Kahoot!</span>
+
+<!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-KAHOOT!
+### <span style="color:rgb(2,104,190)">THANK YOU!</span>
+
+Kai van de Zand & Carolin Hitzegrad
 
 <!-- .slide: data-transition="linear" -->
 ---
 
-### <span style="color:rgb(2,104,190)">THANK YOU!</span
 
-
-Kai van de Zand & Carolin Hitzegrad
