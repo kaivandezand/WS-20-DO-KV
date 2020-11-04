@@ -163,6 +163,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure3.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 
 <br/><br/>                      |  <br/><br/>
@@ -171,7 +172,7 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure3.jpg" -->
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 
 #### 3 Missunderstandings with <span style="color:rgb(2,104,190)">self-management</span>
@@ -181,19 +182,21 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-transition="linear" -->
 ---
+<!-- .slide: data-background="./structure3.jpg" -->
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Organizational Structure 
 ![self_management.jpg](self_management.jpg)<!-- .element height="70%" width="70%" -->
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure3.jpg" -->
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Decision-Making
 ![decision.jpg](decision.jpg)<!-- .element height="50%" width="50%" -->
 
 <!-- .slide: data-transition="linear" -->
 ---
+<!-- .slide: data-background="./structure3.jpg" -->
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Is it really unproven?
 <br/><br/>                      |  <br/><br/>
