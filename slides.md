@@ -279,6 +279,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure5.jpg" -->
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?</font>
 
 <table class=”daTable”>
@@ -294,19 +295,21 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-transition="linear" -->
 ---
+<!-- .slide: data-background="./structure5.jpg" -->
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ####	<span style="color:rgb(246,99,13)">**Predict-and-Control** 
 ![purpose_orange.jpg](purpose_orange.jpg)
 
 <!-- .slide: data-transition="linear" -->
 ---
+<!-- .slide: data-background="./structure5.jpg" -->
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ####	<span style="color:rgb(2,104,190)">**Sense-and-Respond** 
 >	We are <span style="color:rgb(2,104,190)">**present**</span> and with all our <span style="color:rgb(2,104,190)">**senses fully in play**</span>, we take lots of <span style="color:rgb(2,104,190)">**input** </span>, consciously and unconsciously, and we <span style="color:rgb(2,104,190)">**continuously adjust to reality**</span>
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure5.jpg" -->
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 + Teal Organizations <span style="color:rgb(2,104,190)">**do not have fixed budgets**</span>
     + all the units are asked to <span style="color:rgb(2,104,190)">**submit the numbers of what they need**</span>: that is the budget
@@ -314,6 +317,18 @@ BT 1                      |BT 2                      |BT 3
     + innate capacity to <span style="color:rgb(2,104,190)">**sense changes**</span> in their environment and to <span style="color:rgb(2,104,190)">**adapt**</span> from within
 
 <!-- .slide: data-transition="linear" -->
+---
+<!-- .slide: data-background="./structure6.jpg" -->
+
+
+---
+<!-- .slide: data-background="./structure7.jpg" -->
+
+
+---
+<!-- .slide: data-background="./structure8.jpg" -->
+
+
 ---
 <!-- .slide: data-background="./structure.jpg" -->
 ### test
