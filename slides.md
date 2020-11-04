@@ -112,12 +112,12 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
-<span size="4">
 
 > People are aware of orange’s materialistic obsession
 >>+ Happiness is important to the organization’s overall success
 >>+ Organization as families
 >>+ Aspires to be egalitarian and consensus seeking
+
 
 <!-- .slide: data-transition="linear" -->
 ---
@@ -136,6 +136,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure2.jpg" -->
 ## <span style="color:rgb(2,104,190)">**Teal Organizations**
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one **owns true self**
@@ -143,20 +144,23 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure2.jpg" -->
 
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
 ---
+<!-- .slide: data-background="./structure2.jpg" -->
 ### What is a teal organization?
 
 ![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure2.jpg" -->
 ### What is a teal organization?
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure3.jpg" -->
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 
 <br/><br/>                      |  <br/><br/>
