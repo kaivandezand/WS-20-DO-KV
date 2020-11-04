@@ -137,6 +137,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure2.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### What is a teal organization?
 
 ![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
@@ -164,6 +165,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure3.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 
 <br/><br/>                      |  <br/><br/>
@@ -184,6 +186,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure3.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Organizational Structure 
 ![self_management.jpg](self_management.jpg)<!-- .element height="55%" width="55%" -->
@@ -192,6 +195,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure3.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Decision-Making
 ![decision.jpg](decision.jpg)<!-- .element height="40%" width="40%" -->
@@ -200,6 +204,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure3.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Is it really unproven?
 <br/><br/>                      |  <br/><br/>
@@ -210,6 +215,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### Breakthrough 2 - Striving for Wholeness
 ![face-mask.jpg](face-mask.jpg)<!-- .element height="50%" width="50%" -->
 <!-- .slide: data-transition="none" -->
@@ -221,6 +227,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="none" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
+
 ### Breakthrough 2 - Striving for Wholeness
 <table class=”daTable”>
 <tr>
@@ -241,6 +248,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Wholeness at the workplace:</font>
 
@@ -254,6 +262,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Wholeness at the workplace:</font>
 
@@ -268,6 +277,7 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Meetings:</font>
 
@@ -280,6 +290,8 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 <!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
+
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Commitment:</font>
 
@@ -299,7 +311,7 @@ BT 1                      |BT 2                      |BT 3
 
 * Not a conversation from heart
 * Sounds True method
-    * Provoking questions should enhance employee reflecting
+    * Provoking questions enhances reflection
     * Colleagues convene and give notes afterwards
     > Goal: do not feel judged and share your feedback!
 <!-- .slide: data-transition="linear" -->
@@ -376,6 +388,8 @@ Two necessary conditions:
 ---
 
 <!-- .slide: data-background="./structure6.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
+
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 > Usually, it is easier to start a teal organization from scratch because you can define how the organization will look like
 
