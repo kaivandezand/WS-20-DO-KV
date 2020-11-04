@@ -139,14 +139,14 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure2.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
+### What is a <span style="color:rgb(2,104,190)">teal organization</span>?
 ![stapel_alle.jpg](stapel_alle.jpg)<!-- .element height="40%" width="40%" -->
 
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure2.jpg" -->
 
-### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
+### What is a <span style="color:rgb(2,104,190)">teal organization</span>?
 * emerging & evolutionary form of organizations
 * the world is seen as a place to discover and journey towards one <span style="color:rgb(2,104,190)">**owns true self**</span>
 
@@ -154,7 +154,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure2.jpg" -->
 
-### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
+### What is a <span style="color:rgb(2,104,190)">teal organization</span>?
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all around and all forms of life and nature
 
 <!-- .slide: data-transition="linear" -->
@@ -162,7 +162,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure2.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
+### What is a <span style="color:rgb(2,104,190)">teal organization</span>?
 ![buurtzorg.jpg](buurtzorg.jpg)
 
 <!-- .slide: data-transition="linear" -->
@@ -466,7 +466,7 @@ Important to keep in mind:
 <!-- .slide: data-background="./structure.jpg" -->
 
 ### <span style="color:rgb(2,104,190)">Time for Kahoot!</span>
-[https://www.kahoot.it](https://www.kahoot.it)\
+![https://www.kahoot.it](https://www.kahoot.it)\
 Code: 8147138 
 
 <!-- .slide: data-transition="linear" -->
