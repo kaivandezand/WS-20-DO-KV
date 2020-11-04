@@ -333,6 +333,13 @@ BT 1                      |BT 2                      |BT 3
 ---
 <!-- .slide: data-background="./structure.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
+KAHOOT!
+
+
+---
+<!-- .slide: data-background="./structure.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### test
 * slide grün1 braucht noch kleinere schriftgröße
 * 
