@@ -299,5 +299,5 @@ BT 1                      |BT 2                      |BT 3
 
 ## test2
 
-<!-- .slide: data-background="./new-structure1.jpg" /.element height="70%" width="70%" -->
-
+<!-- .slide: data-background="./new-structure1.jpg"
+<!-- .element height="70%" width="70%" -->
