@@ -1,3 +1,4 @@
+<!-- .slide: data-background="./background-start.jpg" -->
 ## Reinventing Organizations
 
 ![stapel_alle.jpg](stapel_alle.jpg)<!-- .element height="40%" width="40%" -->
@@ -5,7 +6,7 @@
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./background-start.jpg" -->
 ### Today we want to give you answers to the following questions:
 <p style="text-align: left;"> <font size="6">1. How are organizations run today? /Which <font size="6"><span style="color:rgb(2,104,190)">worldview</font size="6"> do they have?
 <p style="text-align: left;"><font size="6">2. What is a <font size="6"><span style="color:rgb(2,104,190)">teal organization</font size="6">? 
@@ -14,7 +15,7 @@
 <!-- .slide: data-transition="linear" -->
 
 ---
-
+<!-- .slide: data-background="./background-start.jpg" -->
 ### Today we want to give you answers to the following questions:
 <p style="text-align: left;"><font size="6">5. What is the <font size="6"><span style="color:rgb(2,104,190)">evolutionary purpose</font size="6"> of an organization?</font>
 <p style="text-align: left;"><font size="6">6. How do we get <font size="6"><span style="color:rgb(2,104,190)">teal structures and purposes</font size="6"> into our organization?</font>
