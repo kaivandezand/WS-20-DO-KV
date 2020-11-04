@@ -158,9 +158,7 @@ BT 1                      |BT 2                      |BT 3
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all around and all forms of life and nature
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure2.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
@@ -173,7 +171,6 @@ BT 1                      |BT 2                      |BT 3
 <span style="color:rgb(0,0,0)"> **.**
 
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
-
 <br/><br/>                      |  <br/><br/>
 :-------------------------:|:-------------------------:
 ![complexity.jpg](complexity.jpg)| Bye bye Hierarchy - Hello collective intelligence
@@ -181,6 +178,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure3.jpg" -->
+
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 
 #### 3 Missunderstandings with <span style="color:rgb(2,104,190)">self-management</span>
@@ -199,9 +197,7 @@ BT 1                      |BT 2                      |BT 3
 ![smb.jpg](smb.jpg)<!-- .element height="40%" width="40%" -->
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure3.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
@@ -219,8 +215,8 @@ BT 1                      |BT 2                      |BT 3
 <br/><br/>                      |  <br/><br/>
 :-------------------------:|:-------------------------:
 ![buurtzorg.jpg.jpg](buurtzorg.jpg)| ![morningstar.jpg](morningstar.jpg)
-<!-- .slide: data-transition="linear" -->
 
+<!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
@@ -251,8 +247,8 @@ BT 1                      |BT 2                      |BT 3
 <td>showing makes us feel exposed</td>
 </tr>
 </table>
-<!-- .slide: data-transition="linear" -->
 
+<!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
@@ -265,7 +261,6 @@ BT 1                      |BT 2                      |BT 3
     * creates <span style="color:rgb(2,104,190)">vibrance</span> and <span style="color:rgb(2,104,190)">aliveness</span>
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
@@ -277,11 +272,8 @@ BT 1                      |BT 2                      |BT 3
 * Patagonia´s <span style="color:rgb(2,104,190)">Child Development Center</span> for employee´s children
 * Truthful <span style="color:rgb(2,104,190)">recruiting</span> process without "masks"
 
-
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
@@ -291,10 +283,9 @@ BT 1                      |BT 2                      |BT 3
 * Buurtzorg: <span style="color:rgb(2,104,190)">integrative decision making process</span> in holocracy
 * FAVI: share your story!
 * Heiligenfeld: <span style="color:rgb(2,104,190)">tingsha bells</span>
+
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
@@ -304,8 +295,8 @@ BT 1                      |BT 2                      |BT 3
 * (Un)acceptable reasons
 * small self-managing team structure supports <span style="color:rgb(2,104,190)">flexibility</span>
     * Supported by Buurtzorg and FAVI
-<!-- .slide: data-transition="linear" -->
 
+<!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
@@ -318,10 +309,9 @@ BT 1                      |BT 2                      |BT 3
     * Colleagues convene and give notes afterwards
     
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure5.jpg" -->
+
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?</font>
 
 <table class=”daTable”>
@@ -338,27 +328,23 @@ BT 1                      |BT 2                      |BT 3
 </table>
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure5.jpg" -->
+
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ####	<span style="color:rgb(246,99,13)">**Predict-and-Control** 
 ![purpose_orange.jpg](purpose_orange.jpg)
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure5.jpg" -->
+
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ####	<span style="color:rgb(2,104,190)">**Sense-and-Respond** 
 >	We are <span style="color:rgb(2,104,190)">**present**</span> and with all our <span style="color:rgb(2,104,190)">**senses fully in play**</span>, we take lots of <span style="color:rgb(2,104,190)">**input** </span>, consciously and unconsciously, and we <span style="color:rgb(2,104,190)">**continuously adjust to reality**</span>
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure5.jpg" -->
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
@@ -368,7 +354,6 @@ BT 1                      |BT 2                      |BT 3
     + all the units are asked to <span style="color:rgb(2,104,190)">**submit the numbers of what they need**</span>: that is the budget
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure5.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
@@ -378,9 +363,7 @@ BT 1                      |BT 2                      |BT 3
 ![hips.jpg](hips.jpg)<!-- .element height="350%" width="35%" -->
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure5.jpg" -->
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
@@ -389,7 +372,6 @@ BT 1                      |BT 2                      |BT 3
 ![idea.jpg](idea.jpg)
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure5.jpg" -->
 
@@ -398,26 +380,23 @@ BT 1                      |BT 2                      |BT 3
 ![hips_end.jpg](hips_end.jpg)<!-- .element height="70%" width="70%" -->
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure6.jpg" -->
+
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 Two necessary conditions:
 1. Top leadership
 2. Ownership
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
+
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 > What do you think?\
 > Is it easier to start a new teal organization from scratch or to transform an existing one?
 
 <!-- .slide: data-transition="linear" -->
-
-
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
@@ -428,9 +407,9 @@ Two necessary conditions:
 >But how do we <span style="color:rgb(2,104,190)">transform</span> an existing organization?
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
+
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 
 CEO of FAVI answers:
@@ -440,7 +419,6 @@ CEO of FAVI answers:
     * <span style="color:rgb(2,104,190)">complex vs. complicated</span> system
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
@@ -452,10 +430,9 @@ CEO of FAVI answers:
 ![startingpoints.jpg](startingpoints.jpg)<!-- .element height="50%" width="50%" -->
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure6.jpg" -->
+
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 Important to keep in mind:
 * Start where the <span style="color:rgb(2,104,190)">energy</span> is waiting
@@ -465,10 +442,9 @@ Important to keep in mind:
     * <span style="color:rgb(2,104,190)">Sensor</span> of where the organization will go to
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure7.jpg" -->
+
 ### What are <span style="color:rgb(2,104,190)">today´s key take-aways</span>?
 
 + The goal is not to make everyone equally powerful but fully powerful, so <span style="color:rgb(2,104,190)">**everyone can grow to the strongest, healthiest versions of themselves**</span>!
@@ -477,31 +453,25 @@ Important to keep in mind:
 + There is no recipe on how to become teal. It's a <span style="color:rgb(2,104,190)">**trial & error**</span> process!
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure8.jpg" -->
+
 ### What are our <span style="color:rgb(2,104,190)">references</span>?
 
 **Laloux,** F. & Appert, E. (2016). Reinventing organizations: An illustrated invitation to join the conversation on next-stage organizations. Brussels, Belgium: Nelson Parker.
 
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure.jpg" -->
-<span style="color:rgb(0,0,0)"> **.**
+
 ### <span style="color:rgb(2,104,190)">Time for Kahoot!</span>
 ![https://www.kahoot.it](https://www.kahoot.it)\
 Code: 8147138 
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure.jpg" -->
-<span style="color:rgb(0,0,0)"> **.**
 
 ### <span style="color:rgb(2,104,190)">THANK YOU!</span>
 
@@ -509,5 +479,3 @@ Kai van de Zand & Carolin Hitzegrad
 
 <!-- .slide: data-transition="linear" -->
 ---
-
-
