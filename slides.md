@@ -478,17 +478,31 @@ Important to keep in mind:
 <!-- .slide: data-background="./structure7.jpg" -->
 ### What are <span style="color:rgb(2,104,190)">today´s key take-aways</span>?
 
+1. 
+2. 
+3. 
+4. 
 
 <!-- .slide: data-transition="linear" -->
 
 ---
 
 <!-- .slide: data-background="./structure8.jpg" -->
-### What are our<span style="color:rgb(2,104,190)">references</span>?
+### What are our <span style="color:rgb(2,104,190)">references</span>?
 
+**Laloux,** F. & Appert, E. (2016). Reinventing organizations: An illustrated invitation to join the conversation on next-stage organizations. Brussels, Belgium: Nelson Parker.
+
+<!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
 KAHOOT!
 
+<!-- .slide: data-transition="linear" -->
+---
+
+### <span style="color:rgb(2,104,190)">THANK YOU!</span
+
+
+Kai van de Zand & Carolin Hitzegrad
