@@ -366,6 +366,36 @@ BT 1                      |BT 2                      |BT 3
 
 ---
 
+<!-- .slide: data-background="./structure5.jpg" -->
+
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+##### A small example of change
+![hips.jpg](hips.jpg)<!-- .element height="40%" width="40%" -->
+
+<!-- .slide: data-transition="linear" -->
+
+---
+
+<!-- .slide: data-background="./structure5.jpg" -->
+
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+##### A small example of change
+
+![idea.jpg](idea.jpg)
+
+<!-- .slide: data-transition="linear" -->
+
+---
+<!-- .slide: data-background="./structure5.jpg" -->
+
+### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
+##### A small example of change
+![hips_end.jpg](hips_end.jpg)
+
+<!-- .slide: data-transition="linear" -->
+
+---
+
 <!-- .slide: data-background="./structure6.jpg" -->
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 Two necessary conditions:
