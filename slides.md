@@ -1,6 +1,6 @@
 ## Reinventing Organizations
 
-![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
+![stapel_alle.jpg](stapel_alle.jpg)<!-- .element height="40%" width="40%" -->
 >by Carolin Hitzegrad & Kai van de Zand
 
 <!-- .slide: data-transition="linear" -->
@@ -138,9 +138,9 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure2.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
-### What is a teal organization?
+### What is a <span style="color:rgb(2,104,190)">teal organization </span> organization?
 
-![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
+![stapel_alle.jpg](stapel_alle.jpg)<!-- .element height="40%" width="40%" -->
 <!-- .slide: data-transition="linear" -->
 
 ---
