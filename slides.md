@@ -130,6 +130,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(2,104,190)">**What now?**
 ![organization_all.jpg](organization_all.jpg)<!-- .element height="130%" width="130%" -->
 
@@ -149,6 +150,7 @@ BT 1                      |BT 2                      |BT 3
 >All of us have deep yearning for wholeness, reuniting with all of who we are, with all aorund and all forms of life and nature
 ---
 <!-- .slide: data-background="./structure2.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### What is a teal organization?
 
 ![pyramide_teal_zugeschnitten.jpg](pyramide_teal_zugeschnitten.jpg)
