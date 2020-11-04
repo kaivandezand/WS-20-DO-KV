@@ -370,7 +370,7 @@ BT 1                      |BT 2                      |BT 3
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ##### A small example of change
-![hips.jpg](hips.jpg)<!-- .element height="40%" width="40%" -->
+![hips.jpg](hips.jpg)<!-- .element height="350%" width="35%" -->
 
 <!-- .slide: data-transition="linear" -->
 
@@ -390,7 +390,7 @@ BT 1                      |BT 2                      |BT 3
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ##### A small example of change
-![hips_end.jpg](hips_end.jpg)
+![hips_end.jpg](hips_end.jpg)<!-- .element height="70%" width="70%" -->
 
 <!-- .slide: data-transition="linear" -->
 
@@ -439,11 +439,13 @@ CEO of FAVI answers:
 
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
+
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 
 4 options to start:
 
-PICTURE
+![startingpoints.jpg](startingpoints.jpg)<!-- .element height="50%" width="50%" -->
 
 
 ---
