@@ -242,14 +242,27 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
-<p style="text-align: left;"> Company examples:</font>
+<p style="text-align: left;"> Wholeness at the workplace:</font>
 
-* Morningstar and FAVI -> self-management
-* work can give opportunities to discover new parts of ourselves through the friction of working with others 
+* Average person shows only 1/16 of his true self at work
+* work can give opportunities to discover new parts of ourselves 
+    * through the friction of working with others 
     * creates vibrance and aliveness
 > "Here I can be myself"
 <!-- .slide: data-transition="linear" -->
 
+---
+<!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
+### Breakthrough 2 - Striving for Wholeness
+<p style="text-align: left;"> Wholeness at the workplace:</font>
+
+* Dogs at workplace
+* Patagonia
+    * Child Development Center for employee´s children
+* HR process
+    * Would a truthful recruiting process without wearing masks be possible?
+> Create safe space for employees
 ---
 <!-- .slide: data-background="./structure4.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
@@ -267,7 +280,12 @@ BT 1                      |BT 2                      |BT 3
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Commitment:</font>
 
-* Buurtzorg
+* Canceling a meeting for a child´s school play may not be an acceptable reason
+* small self-managing team structure
+   * supports flexibility in short notice changes
+   * Buurtzorg: nurses take extra patiens
+   * FAVI: swaps shifts
+> you are flexible but you need to fulfill your commitments
 <!-- .slide: data-transition="linear" -->
 
 ---
@@ -275,7 +293,14 @@ BT 1                      |BT 2                      |BT 3
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Performance evaluation:</font>
 
-* 
+* Difficult for both sides
+* Not a conversation from heart
+    * Employees do not feel aspired afterwards
+* Sounds True method
+    * Provoking questions should make employee reflect his behaviour
+    * Group of colleagues convene and give notes afterwards
+    * Employee can reflect
+    > Goal: do not feel judged and share your feedback!
 <!-- .slide: data-transition="linear" -->
 
 ---
