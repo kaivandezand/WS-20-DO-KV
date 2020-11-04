@@ -169,6 +169,8 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 <!-- .slide: data-background="./structure2.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
+
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
 ![buurtzorg.jpg](buurtzorg.jpg)
 
@@ -201,26 +203,12 @@ BT 1                      |BT 2                      |BT 3
 ### Why is <span style="color:rgb(2,104,190)">self-management</span> so important?
 ##### Organizational Structure 
 
-<br/><br/>                      |  <br/><br/>
-:-------------------------:|:-------------------------:
-![self_management_neu.jpg](self_management_neu.jpg)| ![buurtzorg.jpg](buurtzorg.jpg)
-<table class=”daTable”>
-<tr>
-<th>![self_management_neu.jpg](self_management_neu.jpg)</th>
-<th>![buurtzorg.jpg](buurtzorg.jpg) </th>
-</tr>
-</table>
-
----
-
-#
-![self_management_neu.jpg](self_management_neu.jpg)<!-- .element height="30%" width="30%" -->
-
-
----
+![smb.jpg](smb.jpg)<!-- .element height="40%" width="40%" -->
 
 <!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure3.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
@@ -281,13 +269,12 @@ BT 1                      |BT 2                      |BT 3
 <span style="color:rgb(0,0,0)"> **.**
 
 ### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
-<p style="text-align: left;"> Wholeness at the workplace:</font>
-
+> "Here I can be myself"
 * Employees <span style="color:rgb(2,104,190)">show only 1/16</span> of their true self at work
 * Opportunity to <span style="color:rgb(2,104,190)">discover new parts</span> of ourselves 
     * friction of working with others 
     * creates <span style="color:rgb(2,104,190)">vibrance</span> and <span style="color:rgb(2,104,190)">aliveness</span>
-> "Here I can be myself"
+
 <!-- .slide: data-transition="linear" -->
 
 ---
@@ -295,12 +282,12 @@ BT 1                      |BT 2                      |BT 3
 <span style="color:rgb(0,0,0)"> **.**
 
 ### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
-<p style="text-align: left;"> Wholeness at the workplace:</font>
+> Create safe space for employees
 
 * <span style="color:rgb(2,104,190)">Dogs</span> at workplace
 * Patagonia´s <span style="color:rgb(2,104,190)">Child Development Center</span> for employee´s children
 * Truthful <span style="color:rgb(2,104,190)">recruiting</span> process without "masks"
-> Create safe space for employees
+
 
 <!-- .slide: data-transition="linear" -->
 
@@ -310,9 +297,8 @@ BT 1                      |BT 2                      |BT 3
 <span style="color:rgb(0,0,0)"> **.**
 
 ### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
-<p style="text-align: left;"> Meetings:</font>
+> We tend to have less meetings
 
-* self-managing organizations tend to have less
 * Buurtzorg: <span style="color:rgb(2,104,190)">integrative decision making process</span> in holocracy
 * FAVI: share your story!
 * Heiligenfeld: <span style="color:rgb(2,104,190)">tingsha bells</span>
@@ -324,12 +310,11 @@ BT 1                      |BT 2                      |BT 3
 <span style="color:rgb(0,0,0)"> **.**
 
 ### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
-<p style="text-align: left;"> Commitment:</font>
+> You are flexible but you need to fulfill your commitments
 
 * (Un)acceptable reasons
 * small self-managing team structure supports <span style="color:rgb(2,104,190)">flexibility</span>
     * Supported by Buurtzorg and FAVI
-> you are flexible but you need to fulfill your commitments
 <!-- .slide: data-transition="linear" -->
 
 ---
@@ -337,12 +322,12 @@ BT 1                      |BT 2                      |BT 3
 <span style="color:rgb(0,0,0)"> **.**
 
 ### Why should organizations strive for <span style="color:rgb(2,104,190)">wholeness</span>?
-<p style="text-align: left;"> Performance evaluation:</font>
+> Do not feel judged and <span style="color:rgb(2,104,190)">share</span> your feedback!
 
 * Sounds True method
-    * <span style="color:rgb(2,104,190)">Provocing questions</span> enhances <span style="color:rgb(2,104,190)">reflection</span>
+    * <span style="color:rgb(2,104,190)">Provocing questions</span> enhance <span style="color:rgb(2,104,190)">reflection</span>
     * Colleagues convene and give notes afterwards
-    > Goal: do not feel judged and <span style="color:rgb(2,104,190)">share</span> your feedback!
+    
 <!-- .slide: data-transition="linear" -->
 
 ---
@@ -463,7 +448,7 @@ CEO of FAVI answers:
 > There is no one recipe!
 
 * We need to upgrade how we think about change
-    * <span style="color:rgb(2,104,190)">complex vs. comlicated</span> system
+    * <span style="color:rgb(2,104,190)">complex vs. complicated</span> system
 
 <!-- .slide: data-transition="linear" -->
 
@@ -477,8 +462,10 @@ CEO of FAVI answers:
 
 ![startingpoints.jpg](startingpoints.jpg)<!-- .element height="50%" width="50%" -->
 
+<!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure6.jpg" -->
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 Important to keep in mind:
@@ -491,10 +478,15 @@ Important to keep in mind:
 <!-- .slide: data-transition="linear" -->
 
 ---
+
 <!-- .slide: data-background="./structure7.jpg" -->
 ### What are <span style="color:rgb(2,104,190)">today´s key take-aways</span>?
 
+
+<!-- .slide: data-transition="linear" -->
+
 ---
+
 <!-- .slide: data-background="./structure8.jpg" -->
 ### What are our<span style="color:rgb(2,104,190)">references</span>?
 
