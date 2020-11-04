@@ -208,15 +208,19 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
-
+<!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
 ![face-mask.jpg](face-mask.jpg)<!-- .element height="70%" width="70%" -->
 <!-- .slide: data-transition="none" -->
 ---
+<!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
 ![face.jpg](face.jpg)<!-- .element height="70%" width="70%" -->
 <!-- .slide: data-transition="none" -->
 ---
+<!-- .slide: data-background="./structure4.jpg" -->
 ### Breakthrough 2 - Striving for Wholeness
 <table class=”daTable”>
 <tr>
@@ -235,6 +239,8 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Company examples:</font>
 
@@ -245,6 +251,8 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Meetings:</font>
 
@@ -255,6 +263,8 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Commitment:</font>
 
@@ -262,6 +272,8 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure4.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### Breakthrough 2 - Striving for Wholeness
 <p style="text-align: left;"> Performance evaluation:</font>
 
