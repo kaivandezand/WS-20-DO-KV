@@ -5,7 +5,7 @@
 
 <!-- .slide: data-transition="linear" -->
 ---
-<!-- .slide: data-background="./structure.jpg" -->
+
 ### Today we want to give you answers to the following questions:
 <p style="text-align: left;"> <font size="6">1. How are organizations run today? /Which <font size="6"><span style="color:rgb(2,104,190)">worldview</font size="6"> do they have?
 <p style="text-align: left;"><font size="6">2. What is a <font size="6"><span style="color:rgb(2,104,190)">teal organization</font size="6">? 
@@ -24,14 +24,14 @@
 <!-- .slide: data-transition="linear" -->
 
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### How are organizations run today? /Which worldview do they have?
 
 >"_The way we run organizations today is broken_"
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### How are organizations run today? /Which worldview do they have?
 * Employees do not feel engaged at work
 * Leaders feel under pressure from never ending streams of e-mails, meetings...
@@ -39,7 +39,7 @@
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### How are organizations run today? /Which worldview do they have?
 
 
