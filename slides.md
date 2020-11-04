@@ -170,6 +170,7 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-background="./structure2.jpg" -->
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
+![buurtzorg.jpg](buurtzorg.jpg)
 
 <!-- .slide: data-transition="linear" -->
 ---
