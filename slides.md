@@ -1,21 +1,22 @@
 <!-- .slide: data-background="./background-start.jpg" -->
-## Reinventing Organizations
 
+## Reinventing Organizations
 ![stapel_alle.jpg](stapel_alle.jpg)<!-- .element height="40%" width="40%" -->
 >by Carolin Hitzegrad & Kai van de Zand
 
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./background-start.jpg" -->
+
 ### Today we want to give you answers to the following questions:
 <p style="text-align: left;"> <font size="6">1. How are organizations run today? /Which <font size="6"><span style="color:rgb(2,104,190)">worldview</font size="6"> do they have?
 <p style="text-align: left;"><font size="6">2. What is a <font size="6"><span style="color:rgb(2,104,190)">teal organization</font size="6">? 
 <p style="text-align: left;"><font size="6">3. Why is <font size="6"><span style="color:rgb(2,104,190)">self-management</font size="6"> so important?
 <p style="text-align: left;"><font size="6">4. Why should organizations strive for <font size="6"><span style="color:rgb(2,104,190)">wholeness</font size="6">?</font>
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./background-start.jpg" -->
+
 ### Today we want to give you answers to the following questions:
 <p style="text-align: left;"><font size="6">5. What is the <font size="6"><span style="color:rgb(2,104,190)">evolutionary purpose</font size="6"> of an organization?</font>
 <p style="text-align: left;"><font size="6">6. How do we get <font size="6"><span style="color:rgb(2,104,190)">teal structures and purposes</font size="6"> into our organization?</font>
@@ -23,11 +24,10 @@
 <p style="text-align: left;"><font size="6">8. What are our <font size="6"><span style="color:rgb(2,104,190)">references</font size="6">?
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
-### How are organizations run today? /Which <span style="color:rgb(2,104,190)">worldview</span> do they have?
 
+### How are organizations run today? /Which <span style="color:rgb(2,104,190)">worldview</span> do they have?
 >"_The way we run organizations today is broken_"
 
 <!-- .slide: data-transition="linear" -->
@@ -41,28 +41,26 @@
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
+
 ### How are organizations run today? /Which <span style="color:rgb(2,104,190)">worldview</span> do they have?
-
-
 ![steps.jpg](steps.jpg)<!-- .element height="50%" width="50%" -->
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
-### <span style="color:rgb(231,18,36)"> **Red (impulsive worldview)**
+
+### <span style="color:rgb(231,18,36)"> **Red (impulsive) worldview**
   > Order from the top is everything
   + No internalized rules
   + Brutal force if needed
   + Power is the way on looking at the world
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
-### <span style="color:rgb(231,18,36)"> **Red (impulsive worldview)**
 
+### <span style="color:rgb(231,18,36)"> **Red (impulsive) worldview**
 Breakthrough (BT) 1             |  Breakthrough (BT) 2
 :-------------------------:|:-------------------------:
 ![organization_red_1.jpg](organization_red_1.jpg)  |  ![organization_red_2.jpg](organization_red_2.jpg)
@@ -71,6 +69,7 @@ Breakthrough (BT) 1             |  Breakthrough (BT) 2
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
 > Everything is about stability and certainty
 + Internalized rules 
@@ -81,8 +80,8 @@ Breakthrough (BT) 1             |  Breakthrough (BT) 2
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
-### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
 
+### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
 BT 1                       |  BT 2
 :-------------------------:|:-------------------------:
 ![organization_amber_1.jpg](organization_amber_1.jpg)  |  ![organization_amber_2.jpg](organization_amber_2.jpg)
@@ -91,6 +90,7 @@ BT 1                       |  BT 2
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
 > Defined by materialistic obsession & social inequality
 + The world is no longer fixed by rules
@@ -100,19 +100,18 @@ BT 1                       |  BT 2
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
-### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
 
+### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
 BT 1                      |BT 2                      |BT 3          
 :------------------------:|:------------------------:|:------------------------:|
 ![organization_orange_1.jpg](organization_orange_1.jpg)|![organization_orange_2.jpg](organization_orange_2.jpg)|![organization_orange_3.jpg](organization_orange_3.jpg)    
 
 <!-- .slide: data-transition="linear" -->
-
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
-### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
 
+### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
 > Organization as families
 + Happiness is important to the organization’s overall success
 + Aspires to be egalitarian and consensus seeking
@@ -121,44 +120,38 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
+
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
 BT 1                      |BT 2                      |BT 3          
 :------------------------:|:------------------------:|:------------------------:|
 ![organization_green_1.jpg](organization_green_1.jpg)|![organization_green_2_2.jpg](organization_green_2_2.jpg)|![organization_green_3_2.jpg](organization_green_3_2.jpg)
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure1.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
+
 ### <span style="color:rgb(2,104,190)">**What now?**
 ![organization_all.jpg](organization_all.jpg)<!-- .element height="130%" width="130%" -->
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure2.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
-
 ![stapel_alle.jpg](stapel_alle.jpg)<!-- .element height="40%" width="40%" -->
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure2.jpg" -->
+
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
 * emerging & evolutionary form of organizations
-* the world is seen as a place to discover and journey towards one **owns true self**
+* the world is seen as a place to discover and journey towards one <span style="color:rgb(2,104,190)">**owns true self**</span>
 
 <!-- .slide: data-transition="linear" -->
-
 ---
-
 <!-- .slide: data-background="./structure2.jpg" -->
 
 ### What is a <span style="color:rgb(2,104,190)">teal organization </span>?
