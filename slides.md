@@ -493,7 +493,7 @@ Important to keep in mind:
 <!-- .slide: data-background="./structure.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(2,104,190)">Time for Kahoot!</span>
-![https://www.kahoot.it](https://www.kahoot.it)\
+[https://www.kahoot.it](https://www.kahoot.it)\
 Code: 8147138 
 
 <!-- .slide: data-transition="linear" -->
