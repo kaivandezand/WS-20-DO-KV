@@ -48,7 +48,7 @@
 <!-- .slide: data-transition="linear" -->
 
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(231,18,36)"> **Red (impulsive worldview)**
   > Order from the top is everything
   >>+ No internalized rules
@@ -58,6 +58,7 @@
 <!-- .slide: data-transition="linear" -->
 
 ---
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(231,18,36)"> **Red (impulsive worldview)**
 
 Breakthrough (BT) 1             |  Breakthrough (BT) 2
@@ -67,7 +68,7 @@ Breakthrough (BT) 1             |  Breakthrough (BT) 2
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
 > Everything is about stability and certainty
 >>+ Internalized rules and exercise self-discipline
@@ -77,7 +78,7 @@ Breakthrough (BT) 1             |  Breakthrough (BT) 2
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
 
 BT 1                       |  BT 2
@@ -86,7 +87,7 @@ BT 1                       |  BT 2
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
 > Defined by materialistic obsession & social inequality
 >>+ The world is no longer seen as fixed by rules
@@ -95,7 +96,7 @@ BT 1                       |  BT 2
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
 
 BT 1                      |BT 2                      |BT 3          
@@ -105,7 +106,7 @@ BT 1                      |BT 2                      |BT 3
 <!-- .slide: data-transition="linear" -->
 
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
 > People are aware of orange’s materialistic obsession
 >>+ Happiness is important to the organization’s overall success
@@ -114,7 +115,7 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
 BT 1                      |BT 2                      |BT 3          
 :------------------------:|:------------------------:|:------------------------:|
@@ -122,7 +123,7 @@ BT 1                      |BT 2                      |BT 3
 
 <!-- .slide: data-transition="linear" -->
 ---
-
+<!-- .slide: data-background="./structure1.jpg" -->
 ### <span style="color:rgb(2,104,190)">**What now?**
 ![organization_all.jpg](organization_all.jpg)<!-- .element height="130%" width="130%" -->
 
