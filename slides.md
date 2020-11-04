@@ -443,7 +443,7 @@ CEO of FAVI answers:
 
 4 options to start:
 
-PICTURE
+![startingpoints.jpg](startingpoints.jpg)<!-- .element height="50%" width="50%" -->
 
 
 ---
