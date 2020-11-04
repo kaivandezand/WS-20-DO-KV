@@ -59,6 +59,7 @@
 
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
+.
 ### <span style="color:rgb(231,18,36)"> **Red (impulsive worldview)**
 
 Breakthrough (BT) 1             |  Breakthrough (BT) 2
