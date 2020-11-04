@@ -70,6 +70,7 @@ Breakthrough (BT) 1             |  Breakthrough (BT) 2
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(192,160,114)"> **Amber (conformist) worldview**
 > Everything is about stability and certainty
 >>+ Internalized rules and exercise self-discipline
@@ -89,6 +90,7 @@ BT 1                       |  BT 2
 <!-- .slide: data-transition="linear" -->
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(246,99,13)">**Orange (achievement) worldview**
 > Defined by materialistic obsession & social inequality
 >>+ The world is no longer seen as fixed by rules
@@ -108,6 +110,7 @@ BT 1                      |BT 2                      |BT 3
 
 ---
 <!-- .slide: data-background="./structure1.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(2,165,86)">**Green (pluralistic) worldview**
 > People are aware of orange’s materialistic obsession
 >>+ Happiness is important to the organization’s overall success
