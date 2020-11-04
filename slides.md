@@ -492,11 +492,16 @@ Important to keep in mind:
 
 **Laloux,** F. & Appert, E. (2016). Reinventing organizations: An illustrated invitation to join the conversation on next-stage organizations. Brussels, Belgium: Nelson Parker.
 
+
 <!-- .slide: data-transition="linear" -->
+
+---
 
 <!-- .slide: data-background="./structure.jpg" -->
 <span style="color:rgb(0,0,0)"> **.**
 ### <span style="color:rgb(2,104,190)">Time for Kahoot!</span>
+![https://www.kahoot.it](https://www.kahoot.it)\
+Code: 
 
 <!-- .slide: data-transition="linear" -->
 
