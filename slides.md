@@ -367,6 +367,7 @@ BT 1                      |BT 2                      |BT 3
 ---
 
 <!-- .slide: data-background="./structure5.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
 
 ### What is the <span style="color:rgb(2,104,190)">evolutionary purpose</span> of an organization?
 ##### A small example of change
@@ -439,6 +440,8 @@ CEO of FAVI answers:
 
 ---
 <!-- .slide: data-background="./structure6.jpg" -->
+<span style="color:rgb(0,0,0)"> **.**
+
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
 
 4 options to start:
