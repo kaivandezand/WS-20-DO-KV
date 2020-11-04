@@ -259,7 +259,7 @@ BT 1                      |BT 2                      |BT 3
 
 * Dogs at workplace
 * Patagonia´s Child Development Center for employee´s children
-* Truthful recruiting process without wearing "masks"
+* Truthful recruiting process without "masks"
 > Create safe space for employees
 
 <!-- .slide: data-transition="linear" -->
