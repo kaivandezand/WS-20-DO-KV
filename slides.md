@@ -393,7 +393,6 @@ Two necessary conditions:
 <!-- .slide: data-background="./structure6.jpg" -->
 
 ### How do we get <span style="color:rgb(2,104,190)">teal structures and purposes</span> into our organization?</font>
-> What do you think?\
 > Is it easier to start a new teal organization from scratch or to transform an existing one?
 
 <!-- .slide: data-transition="linear" -->
